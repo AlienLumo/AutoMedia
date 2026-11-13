@@ -1,0 +1,43 @@
+name: ci
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    name: python ${{ matrix.python-version }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12"]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      # 不安装重型依赖：只做语法编译 + 纯标准库自检（CI 模式不要求 runtime）
+      - name: Byte-compile Python sources
+        run: python -m compileall -q .
+
+      - name: Self-check (CI mode, runtime optional)
+        run: python scripts/doctor.py --ci
+
+      - name: Feishu setup dry run (must not write files)
+        run: python scripts/feishu_setup.py --dry-run --webhook https://example.com/hook --secret change-me

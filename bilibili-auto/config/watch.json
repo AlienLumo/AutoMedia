@@ -1,0 +1,53 @@
+{
+  "pace_list": 1.5,
+  "pace_search": 2.5,
+  "rest_every": 300,
+  "quiet": true,
+  "ups": {
+    "max_requests_per_run": 1200,
+    "max_new_per_run": 60,
+    "ps": 5,
+    "first_seen_hours": 48,
+    "incremental_lookback_sec": 900,
+    "inline_subs": true,
+    "inline_cap_per_run": 20,
+    "s_prefixes": [
+      "ai",
+      "教程",
+      "机器人",
+      "科研",
+      "数码评测"
+    ],
+    "elastic_window_hours": 48
+  },
+  "keywords": {
+    "file": "config/watch_keywords.txt",
+    "pages": 1,
+    "max_age_hours": 48,
+    "only_roster": true,
+    "max_requests_per_run": 1200,
+    "batch_keywords": 60,
+    "per_kw_cap": 3,
+    "max_new_per_run": 40,
+    "inline_subs": true,
+    "inline_cap_per_run": 15
+  },
+  "inbox": {
+    "comment_cap": 100,
+    "max_requests_per_run": 400,
+    "max_items_per_run": 20,
+    "sub_langs": [
+      "zh"
+    ],
+    "with_comments": false,
+    "min_age_minutes": 10,
+    "max_retries_per_run": 8,
+    "backlog_ttl_days": 7
+  },
+  "digest": {
+    "top": 12,
+    "push": true,
+    "window_hours": 24,
+    "roster_only": true
+  }
+}

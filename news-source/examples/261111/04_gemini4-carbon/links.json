@@ -1,0 +1,37 @@
+[
+ {
+  "label": "verge-gemini",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+  "status": 200,
+  "chars": 8574,
+  "file": "原文/verge-gemini.md"
+ },
+ {
+  "label": "ithome-gemini",
+  "url": "https://www.ithome.com/1/025/203.htm",
+  "status": 200,
+  "chars": 2791,
+  "file": "原文/ithome-gemini.md"
+ },
+ {
+  "label": "ithome-bench",
+  "url": "https://www.ithome.com/1/025/205.htm",
+  "status": 200,
+  "chars": 1949,
+  "file": "原文/ithome-bench.md"
+ },
+ {
+  "label": "ithome-android",
+  "url": "https://www.ithome.com/1/025/232.htm",
+  "status": 200,
+  "chars": 1015,
+  "file": "原文/ithome-android.md"
+ },
+ {
+  "label": "tmtpost-tpu",
+  "url": "https://www.tmtpost.com/8198851.html",
+  "status": 200,
+  "chars": 8984,
+  "file": "原文/tmtpost-tpu.md"
+ }
+]

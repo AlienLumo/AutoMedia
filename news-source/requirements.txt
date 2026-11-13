@@ -1,0 +1,6 @@
+# news-source 运行依赖（项目内 runtime 已自带；单独部署时安装）
+requests>=2.31
+Pillow>=10.0
+numpy>=1.26
+# 截图/录屏（capture_visuals.py）
+patchright>=1.40

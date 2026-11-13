@@ -1,0 +1,62 @@
+[
+ {
+  "slug": "01_anthropic-ipo",
+  "title": "Anthropic IPO：目标估值最高 1.4 万亿美元",
+  "links": 7,
+  "ok": 4
+ },
+ {
+  "slug": "02_anthropic-office",
+  "title": "Anthropic 杀入办公：Claude 白板/表格/数据 + Meetings",
+  "links": 5,
+  "ok": 3
+ },
+ {
+  "slug": "03_claude-52",
+  "title": "Claude Fable 5.2 / Mythos 5.2 发布，编程登顶",
+  "links": 3,
+  "ok": 3
+ },
+ {
+  "slug": "04_gemini4-carbon",
+  "title": "Google 发布 Gemini 4 Carbon + 两款新 TPU",
+  "links": 5,
+  "ok": 5
+ },
+ {
+  "slug": "05_alibaba-qwen-tpu",
+  "title": "阿里：Qwen4 预告、Qwen Code 1.0、平头哥赴港 IPO",
+  "links": 3,
+  "ok": 3
+ },
+ {
+  "slug": "06_openai-business",
+  "title": "OpenAI：ChatGPT 商家资料 + 收购 Odessia 做旅行 Agent",
+  "links": 4,
+  "ok": 3
+ },
+ {
+  "slug": "07_nvidia-huang",
+  "title": "英伟达黄仁勋“中国间谍案”传闻发酵",
+  "links": 3,
+  "ok": 2
+ },
+ {
+  "slug": "08_ai-market-rout",
+  "title": "AI 市场回调：OpenAI/Anthropic 估值回落、基金抛售",
+  "links": 3,
+  "ok": 2
+ },
+ {
+  "slug": "09_meta-muse",
+  "title": "Meta 轻量模型 Muse Ember + Muse 登陆 Apple Watch",
+  "links": 2,
+  "ok": 2
+ },
+ {
+  "slug": "10_apple-ai-quota",
+  "title": "苹果限制 Apple Intelligence 云端额度，iCloud+ 可扩容",
+  "links": 1,
+  "ok": 1
+ }
+]

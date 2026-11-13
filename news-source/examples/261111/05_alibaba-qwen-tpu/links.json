@@ -1,0 +1,23 @@
+[
+ {
+  "label": "ithome-qwen4",
+  "url": "https://www.ithome.com/1/025/301.htm",
+  "status": 200,
+  "chars": 898,
+  "file": "原文/ithome-qwen4.md"
+ },
+ {
+  "label": "ithome-qwencode",
+  "url": "https://www.ithome.com/1/025/393.htm",
+  "status": 200,
+  "chars": 1565,
+  "file": "原文/ithome-qwencode.md"
+ },
+ {
+  "label": "cnbc-thead",
+  "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+  "status": 200,
+  "chars": 5338,
+  "file": "原文/cnbc-thead.md"
+ }
+]

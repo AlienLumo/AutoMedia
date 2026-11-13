@@ -1,0 +1,41 @@
+name: Bug 报告
+description: 运行问题 / 采集失败 / 输出异常
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请先跑 `python scripts\doctor.py` 并把结果贴上来（可隐去本机路径）。
+        不要贴 cookie / token / 真实账号。
+  - type: textarea
+    id: what
+    attributes:
+      label: 现象
+      description: 发生了什么？期望是什么？
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 执行的命令、参数、平台（B站/抖音/小红书/news-source）
+      placeholder: |
+        1. cd bilibili-auto\scripts
+        2. python bili.py check ...
+        3. 报错 ...
+    validations:
+      required: true
+  - type: textarea
+    id: env
+    attributes:
+      label: 环境
+      description: Windows 版本 / Python 版本 / doctor.py 摘要 / 是否有 GPU
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: 日志（脱敏后）
+      description: 只贴相关片段，注意去掉路径、cookie、账号
+      render: text

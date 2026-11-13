@@ -1,0 +1,570 @@
+[
+  {
+    "path": "01_anthropic-ipo/links.json",
+    "sha256": "9d89e986455588471da8a18360d42abad452521abf61328552bd1d2b656c57b8"
+  },
+  {
+    "path": "01_anthropic-ipo/raw/cnbc-retail.html",
+    "sha256": "f47e20c627fc99f24e65092d3e1ef2f9115bbe87d4eab72a5eb9a0bc26e4729e"
+  },
+  {
+    "path": "01_anthropic-ipo/raw/deadline.html",
+    "sha256": "b99f6fc69c0c223d25836944ab8e521036bc693ba2e180d4266f5f030671927f"
+  },
+  {
+    "path": "01_anthropic-ipo/raw/ithome-ipo.html",
+    "sha256": "a32275ffffb6bacc335179c8e64383592dd149ff6c7947daaeda0145f962856f"
+  },
+  {
+    "path": "01_anthropic-ipo/raw/ithome-morning.html",
+    "sha256": "8b1a12fc4c308e3bd9053fe12a0c599bd0859ddead8ab8ec7a9f75d0aad36f5a"
+  },
+  {
+    "path": "01_anthropic-ipo/README.md",
+    "sha256": "9231eea0885026b90f877717b8752144a07df3873d7504f22451c7e28ffc16ef"
+  },
+  {
+    "path": "01_anthropic-ipo/原文/cnbc-retail.md",
+    "sha256": "8b53668c0f0b5f254590ec6f8bdb624da474899ae63b3f843cd932219a31023b"
+  },
+  {
+    "path": "01_anthropic-ipo/原文/deadline.md",
+    "sha256": "4db8f39b21d8d3dcdbe4f635b98367e385b1696bcac9614fa9e943a3ff32fbab"
+  },
+  {
+    "path": "01_anthropic-ipo/原文/ithome-ipo.md",
+    "sha256": "97d7fca58cc36fd659247146b4e8f26351b26e114b4e7be92bac3b746822cad1"
+  },
+  {
+    "path": "01_anthropic-ipo/原文/ithome-morning.md",
+    "sha256": "17347976b4305cd2d85e20f238183566c1dcd7b6a82fe1a3371f37f3da50b548"
+  },
+  {
+    "path": "01_anthropic-ipo/原文/官方动态_anthropic-news.md",
+    "sha256": "f340a4eeafe48b1f29ef78dbef4bd698c746a76f422b11f6956a788e3734c3a3"
+  },
+  {
+    "path": "01_anthropic-ipo/录屏/CN_ithome-morning_滚动.mp4",
+    "sha256": "06b81ac3e6788766466d7b41de86bf287cf28faa63e878458d2f970d74bf4a05"
+  },
+  {
+    "path": "01_anthropic-ipo/录屏/EN_cnbc-retail_滚动.mp4",
+    "sha256": "d362a4ef66513f9079fe97a60ebb792cd10fcd6ff173fd95b60d85994c3ebbb9"
+  },
+  {
+    "path": "01_anthropic-ipo/录屏/EN_deadline_滚动.mp4",
+    "sha256": "09fbeffe1958b2614837ab3cf278072d770261ba8e023958aa485c45ee9cf370"
+  },
+  {
+    "path": "01_anthropic-ipo/录屏/OFFICIAL_anthropic-news_滚动.mp4",
+    "sha256": "4273d5a74ab7812eb975de9ec4f48597f717622ee42e0894e03ebe6caa398159"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/CN_ithome-morning_图片1.png",
+    "sha256": "f9ba79981ab252d593e03907141813597ef18a93201d5f6726c47ef3075d6231"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/CN_ithome-morning_图片2.png",
+    "sha256": "6415fc46defcdde04f31c1564789ff64a4655baeb47ab305e8b2c90049313ba5"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/CN_ithome-morning_图片3.jpg",
+    "sha256": "5f5abb21500415d7897928f18e3c2e430a80ea7e731625ade0c12487fc517f6a"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/CN_ithome-morning_图片4.jpg",
+    "sha256": "03249157dbde9eac279b10aebe5ef8458058b520f096aa4161225a43e3d0d9c1"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/CN_ithome-morning_图片5.jpg",
+    "sha256": "f12a2f212850514bfa62ff0b0d383d76236567cf379ad70dc6e91daf642d0c62"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/CN_ithome-morning_整页.png",
+    "sha256": "0085572cdc17b09ef2e2e3176ad7c707b84f4c89d4c86054df62733766024d6b"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/CN_ithome-morning_标题.png",
+    "sha256": "a001401469b6ca1085dcf74969063d629f82f6a060233584a3ab0a161a916ef4"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/CN_ithome-morning_滚动1.png",
+    "sha256": "d750235e6296c73e91e4272d6390d2f5a846d5f2441693c44fdbc7e26320cab3"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/CN_ithome-morning_滚动2.png",
+    "sha256": "87102e20b2ca92abdf029c1cc8b2a8c13c1e212f6e117990e66c1aad30bf7ab4"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/CN_ithome-morning_滚动3.png",
+    "sha256": "1e7a66fb823671ae99d9b6fe1c0dcfce011b0db7194f71559772815aef04b603"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/CN_ithome-morning_滚动4.png",
+    "sha256": "20e4ac9daadd8db8e62226ea6830da04ff1d37ba08e7f269ed4f3830318ad0ec"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/EN_cnbc-retail_整页.png",
+    "sha256": "54f35ec2bd8d55995bbfa3655a33552baec37ad15dbf28a6b4f2b075fddaeed5"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/EN_cnbc-retail_标题.png",
+    "sha256": "440ff170528b4a3a32d05b897e6dad4a80a7c42df437cd8b030ac5cf84dfaf69"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/EN_cnbc-retail_滚动1.png",
+    "sha256": "66c94ad5b8d9c1153ac00ec54acdc0bb24fc3197c2eb5e004f471101d82e8a80"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/EN_cnbc-retail_滚动2.png",
+    "sha256": "27022f895451947ce2789c9c65a14af8890cdac801877cfdc0c071235bd428d2"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/EN_cnbc-retail_滚动3.png",
+    "sha256": "dc80742a3e257ea84299e47c9ba16f0f11c68da750bac1649ace68c893a711aa"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/EN_cnbc-retail_滚动4.png",
+    "sha256": "dc80742a3e257ea84299e47c9ba16f0f11c68da750bac1649ace68c893a711aa"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/EN_deadline_图片1.jpg",
+    "sha256": "e4a53135ff3a727db0279bf3c5d34b359171dd918a005aa8681f342414ed7697"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/EN_deadline_图片2.png",
+    "sha256": "97722715f92bfef1cccdf80f1dcee232f79e48a4b5612305ca2b864c352f0274"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/EN_deadline_整页.png",
+    "sha256": "0bc154f7dc144499e55ab2ff954440d3aef688c4e6c25890bdc2baac8d85d757"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/EN_deadline_标题.png",
+    "sha256": "064ad9feef7b214cfdab7f5064f1c1744666df8c391e46388afcfd6b915573d7"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/OFFICIAL_anthropic-news_图片1.jpg",
+    "sha256": "af8f3001ed0e73047e89139c89598ffe16262ab96c01346ddbc7134cf0ff2511"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/OFFICIAL_anthropic-news_图片2.jpg",
+    "sha256": "818c876d7194ef037f2469e6cd2cbf228eabcac4a238362da1322293d980920a"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/OFFICIAL_anthropic-news_图片3.jpg",
+    "sha256": "c41cc350e04b3d902ef762e48845f34499c95c2df1514a0d2e39277e7417de84"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/OFFICIAL_anthropic-news_图片4.jpg",
+    "sha256": "1ed70706d3841372a50aa296ff709178f1c5733da8b4611876a31393eee28141"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/OFFICIAL_anthropic-news_图片5.jpg",
+    "sha256": "f7c6a54b8c60856e6f922842a2ab8fb915c84d9d2f01a5e82b0ce3929130895c"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/OFFICIAL_anthropic-news_整页.png",
+    "sha256": "417d96d03bb9f4e7664755241c7517978b801f89a46076983b6514fc2f6d0a69"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/OFFICIAL_anthropic-news_标题.png",
+    "sha256": "8652d6df8b9a8caf2ac19069357e6fe0e25b808c9f4f890171fd4b752196bd15"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/OFFICIAL_anthropic-news_滚动1.png",
+    "sha256": "054b3da043adf9b18e897a39ed22430b5e13cec62e19d786567daf83231ea10f"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/OFFICIAL_anthropic-news_滚动2.png",
+    "sha256": "4eb9a398f6f31f7d73b973353deaeb8e7554c3f3857f6fde8aaee7a7e479f83e"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/OFFICIAL_anthropic-news_滚动3.png",
+    "sha256": "53076b6a81fe84e5d241691cc6b37f7878745dc80061114acc59dccef2d89437"
+  },
+  {
+    "path": "01_anthropic-ipo/截图/OFFICIAL_anthropic-news_滚动4.png",
+    "sha256": "7a5207e0abcd3c374ddf3f51d4672ad8ead5b3e185de16f700ef017ec2f6930a"
+  },
+  {
+    "path": "01_anthropic-ipo/文案素材.md",
+    "sha256": "c233cfdb4383990d17afd7811bfa083e9a38f5bc46eb8406a6a5aee7dc255304"
+  },
+  {
+    "path": "02_anthropic-office/links.json",
+    "sha256": "890383e9aac7e2330d7cc27947fe71af5f886c70c8e50042bd18fe203cf48a8d"
+  },
+  {
+    "path": "02_anthropic-office/raw/ithome-office.html",
+    "sha256": "f4d84fe83b29bc7f784b143b0ae267d06f9b4bfb7c8c07eabb30f71e11e4a0d2"
+  },
+  {
+    "path": "02_anthropic-office/raw/techcrunch-meetings.html",
+    "sha256": "82e5af7726f1f2185dbcceecf3896d5f318866ae0d3ee5eb8d406d68bfd39622"
+  },
+  {
+    "path": "02_anthropic-office/raw/verge-office.html",
+    "sha256": "7b9f70afa43fe5fd69883f8810ed1788ebc4fc29a4c8892d33091a75310d5ba0"
+  },
+  {
+    "path": "02_anthropic-office/README.md",
+    "sha256": "395c861dc725c316762f65901bbad32a6f8e3a302c760aecb766a3a67bcea41b"
+  },
+  {
+    "path": "02_anthropic-office/原文/ithome-office.md",
+    "sha256": "a2e0bdeae9e9d5cc4c334e899dfda0b8a46c2ba94be8397ed34c6ccbf77c708b"
+  },
+  {
+    "path": "02_anthropic-office/原文/techcrunch-meetings.md",
+    "sha256": "5c40c20fd01f9b6d9f0b75649b69a7949a39494684fb02d36f4a9b31bca580c5"
+  },
+  {
+    "path": "02_anthropic-office/原文/verge-office.md",
+    "sha256": "c45dca6673ba0c008b6b6a7a252dec592db24ce87e817f8e3221f68f8e8250b7"
+  },
+  {
+    "path": "02_anthropic-office/原文/官方动态_anthropic-news.md",
+    "sha256": "f340a4eeafe48b1f29ef78dbef4bd698c746a76f422b11f6956a788e3734c3a3"
+  },
+  {
+    "path": "02_anthropic-office/录屏/CN_ithome-office_滚动.mp4",
+    "sha256": "60ae39e2fc117fddef13bebedc6ba18031559c3b7af306b14751a55d4c50a531"
+  },
+  {
+    "path": "02_anthropic-office/录屏/EN_verge-office_滚动.mp4",
+    "sha256": "84ff8497ae63e8cdc77b68ed9459a84e903a16cf6ea85ab39d8cb836041a2b6c"
+  },
+  {
+    "path": "02_anthropic-office/录屏/OFFICIAL_anthropic-news_滚动.mp4",
+    "sha256": "4f09ebcad63085a2f16d7d95c76750b0338166c7c5ba91af58fcb2a7c9b48a16"
+  },
+  {
+    "path": "02_anthropic-office/截图/CN_ithome-office_图片1.jpg",
+    "sha256": "c93c0de74e663485895430cb77241ecc7a0d9d06c22d6d9741ac1b7434294d5f"
+  },
+  {
+    "path": "02_anthropic-office/截图/CN_ithome-office_图片2.jpg",
+    "sha256": "2ae4dd6f004c4a20978fa8fda2d6de18e1ab5ecc9da262a2dea67a6e6ee6204b"
+  },
+  {
+    "path": "02_anthropic-office/截图/CN_ithome-office_图片3.jpg",
+    "sha256": "aefbe83f013386d6dfb404b2c23d3cea86273033462b95aa6c14885cf2c48ce4"
+  },
+  {
+    "path": "02_anthropic-office/截图/CN_ithome-office_图片4.jpg",
+    "sha256": "9558722d432752af957713dff3d13a4eee3fd50608fc84b1503d85bded6ee618"
+  },
+  {
+    "path": "02_anthropic-office/截图/CN_ithome-office_整页.png",
+    "sha256": "68d8e53b7bef983fbc9250267160baea2ce44d3a6cbf67c50da1ded1e97f1393"
+  },
+  {
+    "path": "02_anthropic-office/截图/CN_ithome-office_标题.png",
+    "sha256": "69dbcefde3e8f7e4199476676e6971973be80fb9bab9ca9966b56df11a96252b"
+  },
+  {
+    "path": "02_anthropic-office/截图/CN_ithome-office_滚动1.png",
+    "sha256": "9e39423bfe2316200df336cfcce421fee2a4237b2c41c322e4eeeb6befb099a1"
+  },
+  {
+    "path": "02_anthropic-office/截图/CN_ithome-office_滚动2.png",
+    "sha256": "8ef82749b808efe0f84cfaac83b5fe6b10c2c0d8033d6e97356674a0a8b75f9d"
+  },
+  {
+    "path": "02_anthropic-office/截图/CN_ithome-office_滚动3.png",
+    "sha256": "57cfb24a8da2fc22aa2535287897a49d183b2b11e2586bf0e21802c87e751c50"
+  },
+  {
+    "path": "02_anthropic-office/截图/CN_ithome-office_滚动4.png",
+    "sha256": "4931329772f6a7915e153920a4be8c1a24e469cb722538d22a3a54f8663945cc"
+  },
+  {
+    "path": "02_anthropic-office/截图/EN_verge-office_图片1.jpg",
+    "sha256": "63b97517212758a4ca524d23132f8113e58f564800a5c2b226be63cc95e0bc19"
+  },
+  {
+    "path": "02_anthropic-office/截图/EN_verge-office_图片2.jpg",
+    "sha256": "63b97517212758a4ca524d23132f8113e58f564800a5c2b226be63cc95e0bc19"
+  },
+  {
+    "path": "02_anthropic-office/截图/EN_verge-office_图片3.jpg",
+    "sha256": "06945abd5c5bb46c03a54e67a21fa0461eb6751572e78b6d81f1b26785567fb4"
+  },
+  {
+    "path": "02_anthropic-office/截图/EN_verge-office_图片4.jpg",
+    "sha256": "1d706c88ef81b429f9617d686c154e8355ad0af3d36d1964dbc6ae553f4e501b"
+  },
+  {
+    "path": "02_anthropic-office/截图/EN_verge-office_图片5.jpg",
+    "sha256": "55038d3bd7cb1e24268c0a9f3a1e4de361640c0643b02f620fa7592a8abab89e"
+  },
+  {
+    "path": "02_anthropic-office/截图/EN_verge-office_整页.png",
+    "sha256": "034d9bfb0a5b541fe1975db2ef58cb2bc20f5a3f84cb9e42e9c4f0f1c90beb9f"
+  },
+  {
+    "path": "02_anthropic-office/截图/EN_verge-office_标题.png",
+    "sha256": "2c445d9193f5a6d18f33968e55fc9ab805ded2e359da2c94e93cb4326eee96f2"
+  },
+  {
+    "path": "02_anthropic-office/截图/EN_verge-office_滚动1.png",
+    "sha256": "15424f7a1e32417d230252293241da18f8db130b82e0aafddabba75fe241973f"
+  },
+  {
+    "path": "02_anthropic-office/截图/EN_verge-office_滚动2.png",
+    "sha256": "86133bfe140dd2aa388834fbaa14fce48d9ccacebbc88a3a1a8cda588d833dea"
+  },
+  {
+    "path": "02_anthropic-office/截图/EN_verge-office_滚动3.png",
+    "sha256": "a3776fabe76a14fb02b7b22774c3da0d3a69e8e067cd512b4625fe9aa0f8d767"
+  },
+  {
+    "path": "02_anthropic-office/截图/EN_verge-office_滚动4.png",
+    "sha256": "beeb4168840d0dd53eebb6b2be0b40e88c0cb1548e60a618f1faf24679fbe1f0"
+  },
+  {
+    "path": "02_anthropic-office/截图/OFFICIAL_anthropic-news_图片1.jpg",
+    "sha256": "af8f3001ed0e73047e89139c89598ffe16262ab96c01346ddbc7134cf0ff2511"
+  },
+  {
+    "path": "02_anthropic-office/截图/OFFICIAL_anthropic-news_图片2.jpg",
+    "sha256": "818c876d7194ef037f2469e6cd2cbf228eabcac4a238362da1322293d980920a"
+  },
+  {
+    "path": "02_anthropic-office/截图/OFFICIAL_anthropic-news_图片3.jpg",
+    "sha256": "c41cc350e04b3d902ef762e48845f34499c95c2df1514a0d2e39277e7417de84"
+  },
+  {
+    "path": "02_anthropic-office/截图/OFFICIAL_anthropic-news_图片4.jpg",
+    "sha256": "1ed70706d3841372a50aa296ff709178f1c5733da8b4611876a31393eee28141"
+  },
+  {
+    "path": "02_anthropic-office/截图/OFFICIAL_anthropic-news_图片5.jpg",
+    "sha256": "f7c6a54b8c60856e6f922842a2ab8fb915c84d9d2f01a5e82b0ce3929130895c"
+  },
+  {
+    "path": "02_anthropic-office/截图/OFFICIAL_anthropic-news_整页.png",
+    "sha256": "30326ee5e03a9f24ee140da130f89dbae7c75b3834d02f8bb0084233f4b704d7"
+  },
+  {
+    "path": "02_anthropic-office/截图/OFFICIAL_anthropic-news_标题.png",
+    "sha256": "8652d6df8b9a8caf2ac19069357e6fe0e25b808c9f4f890171fd4b752196bd15"
+  },
+  {
+    "path": "02_anthropic-office/截图/OFFICIAL_anthropic-news_滚动1.png",
+    "sha256": "054b3da043adf9b18e897a39ed22430b5e13cec62e19d786567daf83231ea10f"
+  },
+  {
+    "path": "02_anthropic-office/截图/OFFICIAL_anthropic-news_滚动2.png",
+    "sha256": "b708acbbfcf3a1cdb761c33809dd27652392f5ee1971d8004268fb3fcd4abdaf"
+  },
+  {
+    "path": "02_anthropic-office/截图/OFFICIAL_anthropic-news_滚动3.png",
+    "sha256": "53076b6a81fe84e5d241691cc6b37f7878745dc80061114acc59dccef2d89437"
+  },
+  {
+    "path": "02_anthropic-office/截图/OFFICIAL_anthropic-news_滚动4.png",
+    "sha256": "7a5207e0abcd3c374ddf3f51d4672ad8ead5b3e185de16f700ef017ec2f6930a"
+  },
+  {
+    "path": "02_anthropic-office/文案素材.md",
+    "sha256": "b4e673144d94cfe57f2661797298192f5b96e26cba73316035ab1ede170cf61e"
+  },
+  {
+    "path": "04_gemini4-carbon/links.json",
+    "sha256": "44c6b77d386ef8547cdad9063146cca6f159de57361520f2eb77ad1162cd6466"
+  },
+  {
+    "path": "04_gemini4-carbon/raw/ithome-android.html",
+    "sha256": "8548bf773d85165c2a69a103d74e1a329607294499de4f0b90c8c4a6a64f6455"
+  },
+  {
+    "path": "04_gemini4-carbon/raw/ithome-bench.html",
+    "sha256": "b5e16a8d7f8e6dd53bdb069c46cf01a68683c0f84274c402123f83ad8e2f513b"
+  },
+  {
+    "path": "04_gemini4-carbon/raw/ithome-gemini.html",
+    "sha256": "ab99781ae437f159ab6c340e6c4a73b36b256ffbac83ac4782b1a7f2cab858f5"
+  },
+  {
+    "path": "04_gemini4-carbon/raw/tmtpost-tpu.html",
+    "sha256": "122ada600f25506019bd52f9efb26a276f3fdbe965244d06920563b0c058c7b2"
+  },
+  {
+    "path": "04_gemini4-carbon/raw/verge-gemini.html",
+    "sha256": "78af957722ca924f6cfd60dcfe626ad7135b01cf826bf9d6e1666446e99ffdce"
+  },
+  {
+    "path": "04_gemini4-carbon/README.md",
+    "sha256": "aa5e00525f18194efb0c7743361f50d4f7be08e61fe80f1c1f1ee3cc11d933b5"
+  },
+  {
+    "path": "04_gemini4-carbon/原文/ithome-android.md",
+    "sha256": "0ac03edc0332df3b610589d65d1468d252f5196b0e252e5ec985399c81877814"
+  },
+  {
+    "path": "04_gemini4-carbon/原文/ithome-bench.md",
+    "sha256": "a6e4674721fdc343d90ed32e8f5d628d336e78872c55aac05507e8da69a239ce"
+  },
+  {
+    "path": "04_gemini4-carbon/原文/ithome-gemini.md",
+    "sha256": "213762c6590bb77e58a26471297fd610b7832dfd81baa969f9dc486e8c9b05c0"
+  },
+  {
+    "path": "04_gemini4-carbon/原文/tmtpost-tpu.md",
+    "sha256": "2b27ca67085f25cafe1de4ac26c0897636c0aaf78279f4055e483a4055cf4c16"
+  },
+  {
+    "path": "04_gemini4-carbon/原文/verge-gemini.md",
+    "sha256": "7fc17890308fcda0123d76586dd0777879d13cec2534bb37624111d15355185b"
+  },
+  {
+    "path": "04_gemini4-carbon/原文/官方动态_google-blog-ai.md",
+    "sha256": "9223f2a5afe04d9254da47041996100103b0a01be7cb1f5048994b62ed695a44"
+  },
+  {
+    "path": "04_gemini4-carbon/录屏/CN_tmtpost-tpu_滚动.mp4",
+    "sha256": "d8123598bd0d32164c4b94ab17ace490b311b3a2d227978d0f136a308276cd9b"
+  },
+  {
+    "path": "04_gemini4-carbon/录屏/EN_verge-gemini_滚动.mp4",
+    "sha256": "f911ec19041d2edd9692a9313adfa24464e63d5b8ec057b450b79b4fbb8c60c2"
+  },
+  {
+    "path": "04_gemini4-carbon/录屏/OFFICIAL_google-blog-ai_滚动.mp4",
+    "sha256": "373cfc15136fb0f862b6c996a7372cec15823223760027444e1f9a6fccf17422"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/CN_tmtpost-tpu_图片1.png",
+    "sha256": "7c0e256063f00c8d418ffaefe4be91eb6b03929ccb4f44fe3d2a6304dac5e951"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/CN_tmtpost-tpu_图片2.jpg",
+    "sha256": "bcf02aa9b32c691c1d3d74f0a884a5f46d827b40f44a8f0c8277f038dddb3374"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/CN_tmtpost-tpu_图片3.jpg",
+    "sha256": "4bb59025a0161a3b230b65f8e633e678dcf5dfea5f4ae8114faa2ad5953bac4a"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/CN_tmtpost-tpu_图片4.jpg",
+    "sha256": "bcf02aa9b32c691c1d3d74f0a884a5f46d827b40f44a8f0c8277f038dddb3374"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/CN_tmtpost-tpu_图片5.png",
+    "sha256": "d676d3cfb4b621866cf427793eeb901374350ffac7e6d9a8526d7a232c379065"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/CN_tmtpost-tpu_整页.png",
+    "sha256": "526ccfd70c11e8260cfecbb81dff65959e4fda5231c137f6617b5cc493c0ce5c"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/CN_tmtpost-tpu_滚动1.png",
+    "sha256": "aa0929cc05a943c2bbc2dde3532132deeae5d082c4cf17d0c78b7530ce0264b3"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/CN_tmtpost-tpu_滚动2.png",
+    "sha256": "d5ec28ad17182ad7ad71a00cabc57aa8d844aa38f4d2c900b4b15db0b4ebf58c"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/CN_tmtpost-tpu_滚动3.png",
+    "sha256": "dc46fcc291f5ec1dc2cfd4b69d4834117a0727a6e7b189713007781e056eed27"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/CN_tmtpost-tpu_滚动4.png",
+    "sha256": "893a063489dfef05b2683155864c781cf72d024c022d2986b3d4bd0487972185"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/EN_verge-gemini_图片1.jpg",
+    "sha256": "26cd4b9faaa3a127f454b9f43783801f8a51b390174859c0938ab4ed2d5c7edd"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/EN_verge-gemini_图片2.jpg",
+    "sha256": "26cd4b9faaa3a127f454b9f43783801f8a51b390174859c0938ab4ed2d5c7edd"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/EN_verge-gemini_图片3.jpg",
+    "sha256": "55038d3bd7cb1e24268c0a9f3a1e4de361640c0643b02f620fa7592a8abab89e"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/EN_verge-gemini_图片4.jpg",
+    "sha256": "d704f5bc585b5bbcdf0d996152213cf28661d533b9642ce9515dd7eabc0f5059"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/EN_verge-gemini_图片5.jpg",
+    "sha256": "f5dca3e9220a8089d48d819dc6d8a77bbddd5bc8553ace9b4753eb8cc4ac4801"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/EN_verge-gemini_整页.png",
+    "sha256": "bb804b45a92b59f6523a13e1402cfa0aa8138940c096acd8627cb0f69b74f73b"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/EN_verge-gemini_标题.png",
+    "sha256": "9c7078304a0426feb3cdce92c62f026faa81c5fbe0bc8a31c4edc4e6c9a10d66"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/EN_verge-gemini_滚动1.png",
+    "sha256": "8863af8437d9b17a782e6ec92c890ce3b38a7720de3cfd804728b2c06996c0e6"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/EN_verge-gemini_滚动2.png",
+    "sha256": "8863af8437d9b17a782e6ec92c890ce3b38a7720de3cfd804728b2c06996c0e6"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/EN_verge-gemini_滚动3.png",
+    "sha256": "8863af8437d9b17a782e6ec92c890ce3b38a7720de3cfd804728b2c06996c0e6"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/EN_verge-gemini_滚动4.png",
+    "sha256": "8863af8437d9b17a782e6ec92c890ce3b38a7720de3cfd804728b2c06996c0e6"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/OFFICIAL_google-blog-ai_图片1.png",
+    "sha256": "557a0d743bbde6208d4895e9558e92282dc616d60d88b432d01dbeb855240d41"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/OFFICIAL_google-blog-ai_图片2.jpg",
+    "sha256": "d3d15d70984163bd81771cfcabae90f2869d7592c18058ab624ec72114e23a8a"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/OFFICIAL_google-blog-ai_图片3.jpg",
+    "sha256": "343a65907c75759f10115336882cf68c6667bd549408f93ee98dee6c7893ce22"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/OFFICIAL_google-blog-ai_图片4.jpg",
+    "sha256": "cbb8af0467eb9a76754a6f15d36dac4b22f3db6f3f3e18e859b37a3c1dbfa11b"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/OFFICIAL_google-blog-ai_图片5.jpg",
+    "sha256": "b622d117475647548527440683b8a9fe895006452c9846cec5279568df57631a"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/OFFICIAL_google-blog-ai_整页.png",
+    "sha256": "7009253ad9ba6b41f4b338bb1df6845127c34c488b168db0a464276b21b01416"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/OFFICIAL_google-blog-ai_标题.png",
+    "sha256": "22b97196ecd1958367fb3ca91587208ba712068c3cc2bbfcee3948f8b04376cb"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/OFFICIAL_google-blog-ai_滚动1.png",
+    "sha256": "6d235161b95a4bb545161957bd489c6b8f89136f997e61cfa72f8e111d200973"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/OFFICIAL_google-blog-ai_滚动2.png",
+    "sha256": "93f907da57430a03f9910a3c3df6d7490c690bdc7a2a5c711d905420bb18fa12"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/OFFICIAL_google-blog-ai_滚动3.png",
+    "sha256": "e15bfaf2d90d4d94bc34c3b77d8cd7bdf5d0bc9944322b64251769983ad48c84"
+  },
+  {
+    "path": "04_gemini4-carbon/截图/OFFICIAL_google-blog-ai_滚动4.png",
+    "sha256": "e116d1a6173e0f646b2973a65ff6fe53616c5363627187bb7f1d92d13bd3ac69"
+  },
+  {
+    "path": "04_gemini4-carbon/文案素材.md",
+    "sha256": "798ad3b3f5bc46fd6f336b9c6d1acb7b188fb46eabd6546a09b3361fce1a0289"
+  }
+]

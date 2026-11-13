@@ -1,0 +1,46 @@
+# 运行时数据与凭据：一律不入库
+__pycache__/
+*.pyc
+*.pyo
+.cache/
+.pytest_cache/
+.venv/
+
+# 凭据 / 登录态 / 浏览器 profile
+credentials/
+data/
+.env
+*.key
+**/cookies*.json
+**/*.cookies
+feishu.env
+**/.credentials.yaml
+
+# 采集中间产物
+logs/
+**/*.log
+cache/
+**/cache/
+outputs/
+1AMdata/
+1信息源/
+
+# 媒体大文件
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.gif
+*.otf
+*.ttf
+*.zip
+
+# 临时/备份
+*.tmp
+*.bak
+*.bak2
+*.bak3
+*.old
+Thumbs.db
+desktop.ini
+.DS_Store

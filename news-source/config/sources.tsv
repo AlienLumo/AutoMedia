@@ -1,0 +1,282 @@
+id	name	region	cat	level	subject	adapter	url	feed	enabled	note
+s001	OpenAI News	外	AI官方	P0	官方	rss	https://openai.com/news/	https://openai.com/news/rss.xml	1	模型/产品发布唯一真源，48h 内跟进
+s002	字节 Seed	中	AI官方	P0	官方	html	https://seed.bytedance.com/		1	豆包/Seedance/即梦
+s003	抖音	中	平台	P3	平台	manual	https://www.douyin.com/		0	短视频风向
+s004	YouTube	中	平台	P2	平台	manual	https://www.youtube.com/		0	海外视频一手
+s005	GitHub Blog	外	AI官方	P0	官方	rss	https://github.blog/	https://github.blog/feed/	1	Copilot/开源生态
+s006	Federal Reserve	外	财经股市	P0	聚合	manual	https://www.federalreserve.gov/		0	利率决议一手
+s007	微博	中	国内二传	P3	聚合	manual	https://weibo.com/		0	热搜
+s008	Anthropic News	外	AI官方	P0	官方	rss	https://www.anthropic.com/news	https://www.anthropic.com/news.rss	0	Claude 系列发布与安全研究
+s009	小红书	中	平台	P3	平台	manual	https://www.xiaohongshu.com/		0	种草/工具
+s010	Qwen 通义	中	AI官方	P0	官方	manual	https://qwen.ai/		0	阿里开源模型
+s011	DeepSeek 官方	中	AI官方	P0	官方	manual	https://api-docs.deepseek.com/news		0	国内开源模型第一手
+s012	Moonshot Kimi	中	AI官方	P0	官方	manual	https://www.moonshot.cn/		0	Kimi 模型与产品
+s013	X / Twitter	中	平台	P2	平台	manual	https://x.com/		0	一手爆料最快，但噪音大
+s014	知乎	中	国内二传	P3	聚合	manual	https://www.zhihu.com/		0	问答
+s015	TSMC	外	供应链数据	P0	数据机构	manual	https://www.tsmc.com/english/newsroom		0	晶圆代工一手
+s016	CNN	外	外媒	P1	媒体	rss	https://www.cnn.com/	http://rss.cnn.com/rss/edition_technology.rss	1	国际新闻
+s017	雪球	中	国内二传	P3	聚合	manual	https://xueqiu.com/		0	散户观点
+s018	Google AI Blog	外	AI官方	P0	官方	rss	https://blog.google/technology/ai/	https://blog.google/technology/ai/rss/	1	Gemini 产品化动态
+s019	Bloomberg	外	外媒	P1	媒体	rss	https://www.bloomberg.com/	https://feeds.bloomberg.com/technology/news.rss	1	财经+科技一手
+s020	MiniMax	中	AI官方	P0	官方	html	https://www.minimax.io/		1	海螺/视频生成
+s021	Reuters	外	外媒	P1	媒体	rss	https://www.reuters.com/	https://www.reutersagency.com/feed/?best-topics=tech&post_type=best	0	快讯一手
+s022	Raspberry Pi	外	创客	P1	聚合	rss	https://www.raspberrypi.com/	https://www.raspberrypi.com/news/feed/	1	树莓派
+s023	Arduino	外	创客	P1	聚合	rss	https://www.arduino.cc/	https://blog.arduino.cc/feed/	1	开源硬件
+s024	BBC	外	外媒	P1	媒体	rss	https://www.bbc.com/	https://feeds.bbci.co.uk/news/technology/rss.xml	1	国际新闻
+s025	IMF Data	外	财经股市	P0	聚合	manual	https://www.imf.org/en/Data		0	全球宏观
+s026	The Economist	外	外媒	P1	媒体	rss	https://www.economist.com/	https://www.economist.com/latest/rss.xml	1	深度分析
+s027	New York Times	外	外媒	P1	媒体	rss	https://www.nytimes.com/	https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml	1	综合
+s028	百度文心	中	AI官方	P0	官方	manual	https://ernie.baidu.com/		0	文心系列
+s029	Stability AI	外	AI官方	P0	官方	rss	https://stability.ai/news	https://stability.ai/news/rss.xml	0	开源图像模型
+s030	Nikkei Asia	外	外媒	P1	媒体	rss	https://asia.nikkei.com/	https://asia.nikkei.com/rss/feed/nar	1	亚洲供应链
+s031	Sequoia	外	创投	P1	聚合	rss	https://www.sequoiacap.com/	https://www.sequoiacap.com/feed/	0	VC 观点
+s032	Wall Street Journal	外	外媒	P1	媒体	rss	https://www.wsj.com/	https://feeds.a.dj.com/rss/RSSMarketsMain.xml	1	商业深度
+s033	arXiv	外	论文	P0	数据机构	rss	https://arxiv.org/	https://export.arxiv.org/rss/cs.AI	1	所有 AI 论文第一手
+s034	Paul Graham	外	创投	P1	聚合	rss	https://paulgraham.com/	https://paulgraham.com/rss.html	0	创业经典
+s035	Forbes	外	外媒	P1	媒体	rss	https://www.forbes.com/	https://www.forbes.com/technology/feed/	0	商业/富豪榜
+s036	Runway	外	AI官方	P0	官方	rss	https://runwayml.com/news	https://runwayml.com/blog/rss.xml	0	Gen 系列视频模型
+s037	CVPR	外	论文	P0	数据机构	manual	https://thecvf.com/		0	CV 顶会
+s038	World Bank Open Data	外	财经股市	P0	聚合	manual	https://data.worldbank.org/		0	全球经济
+s039	Midjourney	外	AI官方	P0	官方	manual	https://www.midjourney.com/		0	图像生成版本迭代
+s040	Google DeepMind Blog	外	AI官方	P0	官方	rss	https://deepmind.google/discover/blog/	https://deepmind.google/blog/rss.xml	1	Gemini/AlphaFold/Genie 等
+s041	xAI	外	AI官方	P0	官方	rss	https://x.ai/news	https://x.ai/blog/rss.xml	0	Grok 系列
+s042	36氪	中	国内二传	P3	聚合	rss	https://36kr.com/	https://www.36kr.com/feed	1	创投二传
+s043	掘金	中	国内二传	P3	聚合	rss	https://juejin.cn/	https://juejin.cn/rss	1	开发者
+s044	Financial Times	外	外媒	P1	媒体	rss	https://www.ft.com/	https://www.ft.com/rss/home	1	全球商业
+s045	Hugging Face Blog	外	AI官方	P0	官方	rss	https://huggingface.co/blog	https://huggingface.co/blog/feed.xml	1	开源模型/数据集第一手
+s046	腾讯混元	中	AI官方	P0	官方	manual	https://hunyuan.tencent.com/		0	混元系列
+s047	Washington Post	外	外媒	P1	媒体	rss	https://www.washingtonpost.com/	https://feeds.washingtonpost.com/rss/business/technology	1	美国政治
+s048	Meta AI Blog	外	AI官方	P0	官方	rss	https://ai.meta.com/blog/	https://ai.meta.com/blog/rss/	0	Llama 开源节奏
+s049	Discord	中	平台	P3	平台	manual	https://discord.com/		0	官方社区动态
+s050	虎嗅	中	国内二传	P3	聚合	rss	https://www.huxiu.com/	https://www.huxiu.com/rss/0.xml	0	商业二传
+s051	CNBC	外	外媒	P1	媒体	rss	https://www.cnbc.com/	https://www.cnbc.com/id/100003114/device/rss/rss.html	1	市场快讯
+s052	Telegram	中	平台	P3	平台	manual	https://telegram.org/		0	快讯渠道
+s053	Apple Newsroom	外	科技数码	P0	媒体	manual	https://www.apple.com/newsroom/		0	苹果官方发布
+s054	BIS	外	财经股市	P0	聚合	manual	https://www.bis.org/		0	国际清算银行
+s055	IEA	外	供应链数据	P0	数据机构	manual	https://www.iea.org/		0	能源一手数据
+s056	LangChain Blog	外	AI官方	P0	官方	rss	https://blog.langchain.dev/	https://blog.langchain.dev/rss/	0	Agent 框架
+s057	Microsoft AI Blog	外	AI官方	P0	官方	rss	https://blogs.microsoft.com/ai/	https://blogs.microsoft.com/ai/feed/	0	Copilot/Azure AI
+s058	智谱 Zhipu	中	AI官方	P0	官方	manual	https://www.zhipuai.cn/		0	GLM 系列
+s059	Deadline	外	娱乐明星	P1	媒体	rss	https://deadline.com/	https://deadline.com/feed/	1	好莱坞一手
+s060	Nature	外	论文	P0	数据机构	rss	https://www.nature.com/	https://www.nature.com/nature.rss	1	综合科学一手
+s061	华尔街见闻	中	国内二传	P3	聚合	rss	https://wallstreetcn.com/	https://wallstreetcn.com/rss	0	宏观二传
+s062	NVIDIA IR	外	财经股市	P0	聚合	manual	https://investor.nvidia.com/		0	算力需求一手
+s063	Ollama	外	AI官方	P0	官方	rss	https://ollama.com/	https://ollama.com/blog/rss.xml	1	本地部署
+s064	Reddit	中	平台	P2	平台	rss	https://www.reddit.com/	https://www.reddit.com/r/localLLaMA/.rss	1	社区一手讨论
+s065	财联社	中	国内二传	P3	聚合	manual	https://www.cls.cn/		0	A股快讯
+s066	PNAS	外	论文	P0	数据机构	rss	https://www.pnas.org/	https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas	1	综合科学
+s067	Counterpoint	外	供应链数据	P1	数据机构	manual	https://www.counterpointresearch.com/		0	手机/芯片份额
+s068	Suno	外	AI官方	P0	官方	manual	https://suno.com/		0	AI 音乐
+s069	Morningstar	外	外媒	P1	媒体	rss	https://www.morningstar.com/	https://www.morningstar.com/rss	0	基金/估值
+s070	Latent Space	外	访谈	P1	媒体	rss	https://www.latent.space/	https://www.latent.space/feed	1	AI 工程
+s071	The Atlantic	外	外媒	P1	媒体	rss	https://www.theatlantic.com/	https://www.theatlantic.com/feed/all/	1	深度评论
+s072	The Information	外	外媒	P1	媒体	manual	https://www.theinformation.com/		0	科技独家，B站洗稿主要上游
+s073	The Verge	外	外媒	P1	媒体	rss	https://www.theverge.com/	https://www.theverge.com/rss/index.xml	1	科技产品
+s074	Wired	外	外媒	P1	媒体	rss	https://www.wired.com/	https://www.wired.com/feed/rss	1	科技文化
+s075	Y Combinator	外	创投	P1	聚合	manual	https://www.ycombinator.com/		0	创业方法论
+s076	Business Insider	外	外媒	P2	媒体	rss	https://www.businessinsider.com/	https://www.businessinsider.com/rss	1	商业
+s077	B站热门	中	平台	P3	平台	manual	https://www.bilibili.com/v/popular/all		0	站内风向
+s078	ICLR	外	论文	P0	数据机构	manual	https://iclr.cc/		0	顶会
+s079	ICML	外	论文	P0	数据机构	manual	https://icml.cc/		0	顶会
+s080	OpenRouter	外	AI官方	P0	官方	manual	https://openrouter.ai/		0	模型价格/可用性风向
+s081	All-In	外	访谈	P1	媒体	rss	https://www.allinpodcast.co/	https://allinchamathjason.libsyn.com/rss	1	硅谷观点
+s082	Lex Fridman	外	访谈	P1	媒体	rss	https://lexfridman.com/podcast/	https://lexfridman.com/feed/podcast/	1	深度访谈
+s083	Seeking Alpha	外	外媒	P1	媒体	rss	https://seekingalpha.com/	https://seekingalpha.com/market_currents.xml	1	财报电话会全文
+s084	IMDb	外	娱乐明星	P2	媒体	manual	https://www.imdb.com/		0	影视资料
+s085	少数派	中	国内二传	P3	聚合	rss	https://sspai.com/	https://sspai.com/feed	1	工具/效率
+s086	机器之心	中	国内二传	P3	聚合	rss	https://www.jiqizhixin.com/	https://www.jiqizhixin.com/rss	0	AI 二传头部
+s087	ElevenLabs	外	AI官方	P0	官方	rss	https://elevenlabs.io/	https://elevenlabs.io/blog/rss.xml	1	语音合成
+s088	NeurIPS	外	论文	P0	数据机构	manual	https://neurips.cc/		0	顶会
+s089	SIA	外	供应链数据	P0	数据机构	manual	https://www.semiconductors.org/		0	全球半导体销售
+s090	BloombergNEF	外	供应链数据	P1	数据机构	manual	https://about.bnef.com/		0	新能源
+s091	Gartner	外	供应链数据	P1	数据机构	manual	https://www.gartner.com/		0	IT 预测
+s092	SemiAnalysis	外	科技数码	P1	媒体	rss	https://semianalysis.com/	https://semianalysis.com/feed/	1	芯片/AI 算力深度
+s093	Variety	外	娱乐明星	P1	媒体	rss	https://variety.com/	https://variety.com/feed/	1	娱乐产业一手
+s094	a16z	外	创投	P1	聚合	rss	https://a16z.com/	https://a16z.com/feed/	0	VC 观点
+s095	iFixit	外	科技数码	P1	媒体	rss	https://www.ifixit.com/	https://www.ifixit.com/News/feed	1	拆解
+s096	Cell	外	论文	P0	数据机构	manual	https://www.cell.com/		0	生命科学
+s097	Mistral AI	外	AI官方	P0	官方	rss	https://mistral.ai/news	https://mistral.ai/news/feed.xml	0	欧洲开源模型风向
+s098	SEC EDGAR	外	财经股市	P0	聚合	manual	https://www.sec.gov/edgar		0	美股公司一手财报/招股书
+s099	Science	外	论文	P0	数据机构	rss	https://www.science.org/	https://www.science.org/rss/news_current.xml	1	综合科学一手
+s100	TrendForce	外	供应链数据	P0	数据机构	manual	https://www.trendforce.com/		0	DRAM/面板/代工价格
+s101	20VC	外	访谈	P1	媒体	rss	https://www.thetwentyminutevc.com/	https://www.thetwentyminutevc.com/feed/	0	VC 访谈
+s102	Ars Technica	外	外媒	P1	媒体	rss	https://arstechnica.com/	https://feeds.arstechnica.com/arstechnica/index	1	技术深度
+s103	Billboard	外	娱乐明星	P1	媒体	rss	https://www.billboard.com/	https://www.billboard.com/feed/	1	音乐产业
+s104	Hackaday	外	创客	P1	聚合	rss	https://hackaday.com/	https://hackaday.com/blog/feed/	1	创客项目第一手
+s105	MacRumors	外	科技数码	P1	媒体	rss	https://www.macrumors.com/	https://feeds.macrumors.com/MacRumors-All	1	苹果爆料
+s106	New Scientist	外	外媒	P1	媒体	rss	https://www.newscientist.com/	https://www.newscientist.com/feed/home/	1	科学
+s107	Omdia	外	供应链数据	P1	数据机构	manual	https://omdia.tech.informa.com/		0	显示/半导体
+s108	TechCrunch	外	外媒	P1	媒体	rss	https://techcrunch.com/	https://techcrunch.com/feed/	1	创投一手
+s109	Tom's Hardware	外	科技数码	P1	媒体	rss	https://www.tomshardware.com/	https://www.tomshardware.com/feeds/all	1	硬件评测
+s110	TradingView	外	外媒	P1	媒体	manual	https://www.tradingview.com/		0	图表
+s111	VentureBeat	外	外媒	P1	媒体	rss	https://venturebeat.com/	https://venturebeat.com/feed/	0	AI 商业
+s112	Yahoo Finance	外	外媒	P1	媒体	rss	https://finance.yahoo.com/	https://finance.yahoo.com/news/rssindex	0	行情/财报
+s113	Yole Group	外	供应链数据	P1	数据机构	manual	https://www.yolegroup.com/		0	先进封装/CIS
+s114	CB Insights	外	创投	P2	聚合	manual	https://www.cbinsights.com/		0	行业趋势
+s115	Hacker News	外	创投	P2	聚合	json	https://news.ycombinator.com/	https://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=50	1	技术圈一手讨论
+s116	Product Hunt	外	创投	P2	聚合	rss	https://www.producthunt.com/	https://www.producthunt.com/feed	1	新产品首日
+s117	新智元	中	国内二传	P3	聚合	manual	https://www.aismartz.com/		0	AI 二传
+s118	量子位	中	国内二传	P3	聚合	rss	https://www.qbitai.com/	https://www.qbitai.com/feed	1	AI 二传
+s119	FRED	外	财经股市	P0	聚合	manual	https://fred.stlouisfed.org/		0	美国宏观一手数据
+s120	LMArena	外	AI官方	P0	官方	manual	https://lmarena.ai/		0	模型排名
+s121	LlamaIndex	外	AI官方	P0	官方	manual	https://www.llamaindex.ai/blog		0	RAG 框架
+s122	Luma AI	外	AI官方	P0	官方	manual	https://lumalabs.ai/		0	Dream Machine
+s123	OpenReview	外	论文	P0	数据机构	manual	https://openreview.net/		0	顶会评审/预印
+s124	Papers with Code	外	论文	P0	数据机构	manual	https://paperswithcode.com/		0	论文+代码
+s125	Pika	外	AI官方	P0	官方	manual	https://pika.art/		0	视频生成
+s126	PubMed	外	论文	P0	数据机构	manual	https://pubmed.ncbi.nlm.nih.gov/		0	医学文献
+s127	SEMI	外	供应链数据	P0	数据机构	manual	https://www.semi.org/		0	半导体设备数据
+s128	Samsung Newsroom	外	科技数码	P0	媒体	manual	https://news.samsung.com/		0	三星官方
+s129	Semantic Scholar	外	论文	P0	数据机构	manual	https://www.semanticscholar.org/		0	引文检索
+s130	WSTS	外	供应链数据	P0	数据机构	manual	https://www.wsts.org/		0	半导体市场预测
+s131	bioRxiv	外	论文	P0	数据机构	rss	https://www.biorxiv.org/	https://connect.biorxiv.org/biorxiv_xml.php?subject=all	1	生物预印
+s132	medRxiv	外	论文	P0	数据机构	rss	https://www.medrxiv.org/	https://connect.medrxiv.org/medrxiv_xml.php?subject=all	1	医学预印
+s133	9to5Mac	外	科技数码	P1	媒体	rss	https://9to5mac.com/	https://9to5mac.com/feed/	1	苹果生态
+s134	Acquired	外	访谈	P1	媒体	rss	https://www.acquired.fm/	https://www.acquired.fm/rss	0	公司史
+s135	Adafruit	外	创客	P1	聚合	rss	https://www.adafruit.com/	https://blog.adafruit.com/feed/	1	电子模块
+s136	Android Authority	外	科技数码	P1	媒体	rss	https://www.androidauthority.com/	https://www.androidauthority.com/feed/	1	安卓
+s137	Axios	外	外媒	P1	媒体	rss	https://www.axios.com/	https://api.axios.com/feed/	1	快讯
+s138	Barron's	外	外媒	P1	媒体	rss	https://www.barrons.com/	https://feeds.content.dowjones.io/public/rss/BARRONS_TOP	0	投资
+s139	Benedict Evans	外	创投	P1	聚合	rss	https://www.ben-evans.com/	https://www.ben-evans.com/benedictevans?format=rss	1	科技趋势
+s140	Big Technology	外	访谈	P1	媒体	manual	https://www.bigtechnology.com/		0	科技记者访谈
+s141	CNX Software	外	创客	P1	聚合	rss	https://www.cnx-software.com/	https://www.cnx-software.com/feed/	1	嵌入式/开发板
+s142	Canalys	外	供应链数据	P1	数据机构	manual	https://www.canalys.com/		0	PC/手机出货
+s143	Capital Allocators	外	访谈	P1	媒体	manual	https://capitalallocators.com/		0	机构投资
+s144	DXOMARK	外	科技数码	P1	媒体	rss	https://www.dxomark.com/	https://www.dxomark.com/feed/	1	影像评分
+s145	Decoder	外	访谈	P1	媒体	manual	https://www.theverge.com/decoder-podcast		0	科技领袖访谈
+s146	Dwarkesh	外	访谈	P1	媒体	rss	https://www.dwarkesh.com/	https://www.dwarkesh.com/feed	1	AI 前沿访谈
+s147	First Round Review	外	创投	P1	聚合	rss	https://review.firstround.com/	https://review.firstround.com/feed/	0	创业实操
+s148	GQ	外	娱乐明星	P1	媒体	rss	https://www.gq.com/	https://www.gq.com/feed/rss	1	名人访谈
+s149	GSMArena	外	科技数码	P1	媒体	rss	https://www.gsmarena.com/	https://www.gsmarena.com/rss-news-reviews.php3	1	手机参数
+s150	Hard Fork	外	访谈	P1	媒体	manual	https://www.nytimes.com/column/hard-fork		0	科技新闻
+s151	IDC	外	供应链数据	P1	数据机构	manual	https://www.idc.com/		0	IT 支出
+s152	IEEE Spectrum	外	外媒	P1	媒体	rss	https://spectrum.ieee.org/	https://spectrum.ieee.org/feeds/feed.rss	1	工程
+s153	Indie Hackers	外	创投	P1	聚合	manual	https://www.indiehackers.com/		0	独立开发者
+s154	Instructables	外	创客	P1	聚合	rss	https://www.instructables.com/	https://www.instructables.com/feed/	0	DIY 教程
+s155	Invest Like the Best	外	访谈	P1	媒体	manual	https://www.joincolossus.com/		0	投资访谈
+s156	Investing.com	外	外媒	P1	媒体	rss	https://www.investing.com/	https://www.investing.com/rss/news_25.rss	1	行情
+s157	Lenny's Newsletter	外	创投	P1	聚合	rss	https://www.lennysnewsletter.com/	https://www.lennysnewsletter.com/feed	1	产品/增长
+s158	MIT Technology Review	外	外媒	P1	媒体	rss	https://www.technologyreview.com/	https://www.technologyreview.com/feed/	1	技术趋势
+s159	Make:	外	创客	P1	聚合	rss	https://makezine.com/	https://makezine.com/feed/	1	创客
+s160	MarketWatch	外	外媒	P1	媒体	rss	https://www.marketwatch.com/	https://feeds.content.dowjones.io/public/rss/mw_topstories	1	市场
+s161	My First Million	外	访谈	P1	媒体	rss	https://www.mfmpod.com/	https://www.mfmpod.com/feed/	1	商业点子
+s162	No Priors	外	访谈	P1	媒体	rss	https://www.no-priors.com/	https://www.youtube.com/feeds/videos.xml?channel_id=UCkw4JCwteGrDHIsyIIMgBRA	0	AI 访谈
+s163	Notebookcheck	外	科技数码	P1	媒体	rss	https://www.notebookcheck.net/	https://www.notebookcheck.net/RSS-Feed.40.100.html	0	笔电评测
+s164	Odd Lots	外	访谈	P1	媒体	manual	https://www.bloomberg.com/oddlots		0	市场机制
+s165	Phoronix	外	科技数码	P1	媒体	rss	https://www.phoronix.com/	https://www.phoronix.com/rss.php	1	Linux 性能
+s166	Quanta Magazine	外	外媒	P1	媒体	rss	https://www.quantamagazine.org/	https://www.quantamagazine.org/feed/	1	数学/物理科普
+s167	Rolling Stone	外	娱乐明星	P1	媒体	rss	https://www.rollingstone.com/	https://www.rollingstone.com/feed/	1	音乐/文化
+s168	Semafor	外	外媒	P1	媒体	rss	https://www.semafor.com/	https://www.semafor.com/rss.xml	1	全球商业
+s169	ServeTheHome	外	科技数码	P1	媒体	rss	https://www.servethehome.com/	https://www.servethehome.com/feed/	1	服务器硬件
+s170	SparkFun	外	创客	P1	聚合	rss	https://www.sparkfun.com/	https://www.sparkfun.com/news/feed	0	电子模块
+s171	Stratechery	外	创投	P1	聚合	rss	https://stratechery.com/	https://stratechery.com/feed/	1	科技商业战略
+s172	TechInsights	外	供应链数据	P1	数据机构	manual	https://www.techinsights.com/		0	芯片拆解
+s173	TechPowerUp	外	科技数码	P1	媒体	rss	https://www.techpowerup.com/	https://www.techpowerup.com/rss/news	1	GPU/CPU 数据
+s174	The Hollywood Reporter	外	娱乐明星	P1	媒体	rss	https://www.hollywoodreporter.com/	https://www.hollywoodreporter.com/feed/	1	娱乐产业
+s175	Vanity Fair	外	娱乐明星	P1	媒体	rss	https://www.vanityfair.com/	https://www.vanityfair.com/feed/rss	1	名人访谈
+s176	XDA	外	科技数码	P1	媒体	rss	https://www.xda-developers.com/	https://www.xda-developers.com/feed/	1	安卓/刷机
+s177	AnandTech	外	科技数码	P2	媒体	manual	https://www.anandtech.com/		0	芯片评测（已停更存档）
+s178	Crunchbase	外	创投	P2	聚合	manual	https://www.crunchbase.com/		0	融资数据
+s179	GitHub Trending	外	创客	P2	聚合	manual	https://github.com/trending		0	开源项目趋势
+s180	Hugging Face Papers	外	论文	P2	数据机构	rss	https://huggingface.co/papers	https://huggingface.co/papers/rss	0	每日热门论文
+s181	PitchBook	外	创投	P2	聚合	manual	https://pitchbook.com/		0	一级市场
+s182	r/LocalLLaMA	中	平台	P2	平台	rss	https://www.reddit.com/r/LocalLLaMA/	https://www.reddit.com/r/LocalLLaMA/.rss	1	本地模型风向
+s183	r/MachineLearning	中	平台	P2	平台	rss	https://www.reddit.com/r/MachineLearning/	https://www.reddit.com/r/MachineLearning/.rss	0	ML 社区
+s184	InfoQ	中	国内二传	P3	聚合	rss	https://www.infoq.cn/	https://www.infoq.cn/feed	1	技术二传
+s185	财新网	中	国内媒体	P1	媒体	rss	https://www.caixin.com/	https://www.caixin.com/rss/	0	财经一手调查
+s186	第一财经	中	国内媒体	P1	媒体	rss	https://www.yicai.com/	https://www.yicai.com/rss/	0	财经
+s187	界面新闻	中	国内媒体	P1	媒体	rss	https://www.jiemian.com/	https://www.jiemian.com/rss/	0	商业
+s188	澎湃新闻	中	国内媒体	P1	媒体	rss	https://www.thepaper.cn/	https://www.thepaper.cn/rss	0	政务/社会
+s189	晚点LatePost	中	国内媒体	P1	媒体	manual	https://www.latepost.com/		0	科技独家，公众号为主
+s190	极客公园	中	国内媒体	P1	媒体	rss	https://www.geekpark.net/	https://www.geekpark.net/rss	1	科技
+s191	爱范儿	中	国内媒体	P1	媒体	rss	https://www.ifanr.com/	https://www.ifanr.com/feed	1	科技产品
+s192	差评	中	国内媒体	P2	媒体	manual	https://chaping.cn/		0	科技测评，公众号
+s193	钛媒体	中	国内媒体	P1	媒体	rss	https://www.tmtpost.com/	https://www.tmtpost.com/feed	1	科技商业
+s194	IT之家	中	国内媒体	P1	媒体	rss	https://www.ithome.com/	https://www.ithome.com/rss/	1	快讯
+s195	快科技	中	国内媒体	P2	媒体	rss	https://www.mydrivers.com/	https://www.mydrivers.com/rss.xml	0	硬件快讯
+s196	C114通信网	中	国内媒体	P1	媒体	rss	https://www.c114.com.cn/	https://www.c114.com.cn/rss/	0	通信
+s197	集微网	中	国内媒体	P1	媒体	manual	https://www.laoyaoba.com/		0	半导体
+s198	电子发烧友	中	国内媒体	P2	媒体	rss	https://www.elecfans.com/	https://www.elecfans.com/rss	0	电子硬件
+s199	雷锋网	中	国内媒体	P1	媒体	rss	https://www.leiphone.com/	https://www.leiphone.com/feed	1	AI/科技
+s200	智东西	中	国内媒体	P1	媒体	rss	https://zhidx.com/	https://zhidx.com/feed	0	AI 产业
+s201	甲子光年	中	国内媒体	P1	媒体	manual	https://www.jiazi.tech/		0	科技产业深度
+s202	硅星人	中	国内媒体	P1	媒体	manual	https://www.guixingren.com/		0	硅谷一手编译
+s203	品玩	中	国内媒体	P1	媒体	rss	https://www.pingwest.com/	https://www.pingwest.com/feed	0	科技
+s204	三言财经	中	国内媒体	P2	媒体	manual	https://www.sanyanapp.com/		0	互联网商业
+s205	深燃	中	国内媒体	P2	媒体	manual			0	商业深度，公众号
+s206	蓝鲸财经	中	国内媒体	P2	媒体	manual	https://www.lanjinger.com/		0	财经
+s207	每日经济新闻	中	国内媒体	P1	媒体	rss	https://www.nbd.com.cn/	https://www.nbd.com.cn/rss	0	财经
+s208	证券时报	中	国内媒体	P1	媒体	rss	https://www.stcn.com/	https://www.stcn.com/rss	0	股市
+s209	中国证券报	中	国内媒体	P1	媒体	manual	https://www.cs.com.cn/		0	股市
+s210	上海证券报	中	国内媒体	P1	媒体	manual	https://www.cnstock.com/		0	股市
+s211	21世纪经济报道	中	国内媒体	P1	媒体	manual	https://www.21jingji.com/		0	财经
+s212	经济观察报	中	国内媒体	P1	媒体	manual	https://www.eeo.com.cn/		0	财经
+s213	时代周报	中	国内媒体	P2	媒体	manual	https://www.time-weekly.com/		0	商业
+s214	南方周末	中	国内媒体	P1	媒体	manual	https://www.infzm.com/		0	深度
+s215	三联生活周刊	中	国内媒体	P1	媒体	manual	https://www.lifeweek.com.cn/		0	文化
+s216	人物	中	国内媒体	P1	媒体	manual	https://www.renwumag.com/		0	人物访谈
+s217	GQ报道	中	国内媒体	P1	媒体	manual	https://www.gq.com.cn/		0	人物访谈
+s218	投资界	中	国内媒体	P1	媒体	rss	https://news.pedaily.cn/	https://news.pedaily.cn/rss/	0	创投
+s219	IT桔子	中	国内数据	P1	数据机构	manual	https://www.itjuzi.com/		0	融资数据
+s220	烯牛数据	中	国内数据	P1	数据机构	manual	https://www.niuniu.com/		0	融资数据
+s221	企查查	中	国内数据	P1	数据机构	manual	https://www.qcc.com/		0	工商数据
+s222	天眼查	中	国内数据	P1	数据机构	manual	https://www.tianyancha.com/		0	工商数据
+s223	东方财富	中	国内数据	P2	聚合	html	https://www.eastmoney.com/		1	行情/公告聚合
+s224	同花顺	中	国内数据	P2	聚合	html	https://www.10jqka.com.cn/		1	行情
+s225	巨潮资讯	中	国内数据	P0	数据机构	api	https://www.cninfo.com.cn/		0	上市公司公告原文
+s226	上交所	中	国内官方	P0	官方	html	https://www.sse.com.cn/		1	公告
+s227	深交所	中	国内官方	P0	官方	html	https://www.szse.cn/		1	公告
+s228	港交所披露易	中	国内官方	P0	官方	html	https://www.hkexnews.hk/		1	公告
+s229	证监会	中	国内官方	P0	官方	html	http://www.csrc.gov.cn/		1	监管
+s230	中国人民银行	中	国内官方	P0	官方	html	http://www.pbc.gov.cn/		1	货币政策
+s231	国家统计局	中	国内官方	P0	官方	html	https://www.stats.gov.cn/		1	宏观数据
+s232	工信部	中	国内官方	P0	官方	html	https://www.miit.gov.cn/		1	产业政策
+s233	网信办	中	国内官方	P0	官方	html	http://www.cac.gov.cn/		1	监管
+s234	发改委	中	国内官方	P0	官方	html	https://www.ndrc.gov.cn/		1	产业政策
+s235	科技部	中	国内官方	P0	官方	html	https://www.most.gov.cn/		1	科技政策
+s236	商务部	中	国内官方	P0	官方	html	http://www.mofcom.gov.cn/		1	贸易
+s237	财政部	中	国内官方	P0	官方	html	https://www.mof.gov.cn/		1	财政
+s238	国家能源局	中	国内官方	P0	官方	html	http://www.nea.gov.cn/		1	能源
+s239	国家医保局	中	国内官方	P0	官方	html	http://www.nhsa.gov.cn/		1	医疗政策
+s240	中国政府网	中	国内官方	P0	官方	html	https://www.gov.cn/		1	政策
+s241	中国信通院	中	国内官方	P0	官方	html	http://www.caict.ac.cn/		1	通信/算力白皮书
+s242	中国半导体行业协会	中	国内官方	P0	官方	html	http://www.csia.net.cn/		1	半导体
+s243	中国汽车工业协会	中	国内官方	P0	官方	html	http://www.caam.org.cn/		1	汽车产销
+s244	乘联会	中	国内数据	P0	数据机构	html	http://www.cpcaauto.com/		1	汽车销量
+s245	中国货币网	中	国内数据	P0	数据机构	html	https://www.chinamoney.com.cn/		1	利率/汇率
+s246	智源社区	中	国内媒体	P1	媒体	html	https://hub.baai.ac.cn/		1	AI 学术
+s247	中国计算机学会	中	国内官方	P0	官方	html	https://www.ccf.org.cn/		1	学术
+s248	ModelScope	中	国内数据	P1	数据机构	html	https://modelscope.cn/		1	开源模型
+s249	阿里云开发者社区	中	国内媒体	P1	媒体	html	https://developer.aliyun.com/		1	技术
+s250	腾讯云开发者社区	中	国内媒体	P1	媒体	html	https://cloud.tencent.com/developer		1	技术
+s251	华为云社区	中	国内媒体	P1	媒体	html	https://bbs.huaweicloud.com/		1	技术
+s252	DeepSeek 官网	中	国内官方	P0	官方	html	https://www.deepseek.com/		1	官方发布
+s253	月之暗面	中	国内官方	P0	官方	html	https://www.moonshot.cn/		1	Kimi 官方
+s254	智谱	中	国内官方	P0	官方	html	https://www.zhipuai.cn/		1	GLM 官方
+s255	阿里云	中	国内官方	P0	官方	html	https://www.aliyun.com/		1	云/通义
+s256	百度 AI	中	国内官方	P0	官方	html	https://ai.baidu.com/		1	文心
+s257	华为	中	国内官方	P0	官方	html	https://www.huawei.com/cn/news		1	官方新闻
+s258	小米	中	国内官方	P0	官方	html	https://www.mi.com/		1	官方
+s259	大疆	中	国内官方	P0	官方	html	https://www.dji.com/cn/newsroom		1	官方
+s260	宇树科技	中	国内官方	P0	官方	html	https://www.unitree.com/		1	机器人官方
+s261	智元机器人	中	国内官方	P0	官方	html	https://www.zhiyuan-robot.com/		1	机器人官方
+s262	优必选	中	国内官方	P0	官方	html	https://www.ubtrobot.com/		1	机器人官方
+s263	比亚迪	中	国内官方	P0	官方	html	https://www.byd.com/		1	汽车官方
+s264	宁德时代	中	国内官方	P0	官方	html	https://www.catl.com/		1	电池官方
+s265	中芯国际	中	国内官方	P0	官方	html	https://www.smics.com/		1	代工官方
+s266	寒武纪	中	国内官方	P0	官方	html	https://www.cambricon.com/		1	AI 芯片
+s267	摩尔线程	中	国内官方	P0	官方	html	https://www.mthreads.com/		1	GPU
+s268	地平线	中	国内官方	P0	官方	html	https://www.horizon.cc/		1	智驾芯片
+s269	科大讯飞	中	国内官方	P0	官方	html	https://www.iflytek.com/		1	官方
+s270	商汤科技	中	国内官方	P0	官方	html	https://www.sensetime.com/		1	官方
+s271	中国汽车报	中	国内媒体	P1	媒体	manual	http://www.cnautonews.com/		0	汽车产业
+s272	高工锂电	中	国内媒体	P1	媒体	manual	https://www.gg-lb.com/		0	锂电
+s273	集邦咨询	中	国内媒体	P1	媒体	html	https://www.trendforce.cn/		1	存储/面板价格
+s274	猫眼专业版	中	国内数据	P1	数据机构	manual	https://piaofang.maoyan.com/		0	票房
+s275	灯塔专业版	中	国内数据	P1	数据机构	manual	https://ys.endata.cn/		0	票房
+s276	云合数据	中	国内数据	P1	数据机构	manual	https://www.enlightent.cn/		0	剧集热度
+s277	微博热搜	中	国内平台	P3	聚合	manual	https://s.weibo.com/top/summary		0	热搜=聚合，非一手
+s278	知乎热榜	中	国内平台	P3	聚合	manual	https://www.zhihu.com/hot		0	热榜=聚合
+s279	抖音热点	中	国内平台	P3	聚合	manual	https://www.douyin.com/hot		0	热点=聚合
+s280	小红书热搜	中	国内平台	P3	聚合	manual	https://www.xiaohongshu.com/explore		0	需登录，非一手
+s281	微信公众号	中	国内平台	P3	平台	manual			0	无公开接口；官方号可视为 P0 首发渠道

@@ -1,0 +1,93 @@
+{
+  "date": "261111",
+  "date_iso": "2026-11-11",
+  "note": "当日选题：10 个大事件及其原文链接。collect.py 默认读取本文件；换日复制成 <新日期>.json 后改内容。",
+  "events": {
+    "01_anthropic-ipo": {
+      "title": "Anthropic IPO：目标估值最高 1.4 万亿美元",
+      "links": [
+        ["deadline", "https://deadline.com/2026/11/anthropic-sets-ipo-range-ai-risks-1237219462/"],
+        ["cnbc-retail", "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html"],
+        ["bloomberg-ipo", "https://www.bloomberg.com/news/videos/2026-11-10/bloomberg-tech-11-10-2026-video"],
+        ["nyt-nvidia", "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html"],
+        ["nyt-google-amazon", "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html"],
+        ["ithome-ipo", "https://www.ithome.com/1/024/694.htm"],
+        ["ithome-morning", "https://www.ithome.com/1/025/224.htm"]
+      ]
+    },
+    "02_anthropic-office": {
+      "title": "Anthropic 杀入办公：Claude 白板/表格/数据 + Meetings",
+      "links": [
+        ["verge-office", "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now"],
+        ["bloomberg-office", "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-unveils-office-tools-ahead-of-ipo-taking-on-microsoft"],
+        ["techcrunch-meetings", "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"],
+        ["ithome-office", "https://www.ithome.com/1/025/204.htm"],
+        ["investing-meet", "https://www.investing.com/news/stock-market-news/anthropic-brings-claude-to-google-meet-to-tackle-tasks-live-5016423"]
+      ]
+    },
+    "03_claude-52": {
+      "title": "Claude Fable 5.2 / Mythos 5.2 发布，编程登顶",
+      "links": [
+        ["ithome-fable", "https://www.ithome.com/1/024/796.htm"],
+        ["ithome-detail", "https://www.ithome.com/1/024/573.htm"],
+        ["ithome-mythos", "https://www.ithome.com/1/024/849.htm"]
+      ]
+    },
+    "04_gemini4-carbon": {
+      "title": "Google 发布 Gemini 4 Carbon + 两款新 TPU",
+      "links": [
+        ["verge-gemini", "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"],
+        ["ithome-gemini", "https://www.ithome.com/1/025/203.htm"],
+        ["ithome-bench", "https://www.ithome.com/1/025/205.htm"],
+        ["ithome-android", "https://www.ithome.com/1/025/232.htm"],
+        ["tmtpost-tpu", "https://www.tmtpost.com/8198851.html"]
+      ]
+    },
+    "05_alibaba-qwen-tpu": {
+      "title": "阿里：Qwen4 预告、Qwen Code 1.0、平头哥赴港 IPO",
+      "links": [
+        ["ithome-qwen4", "https://www.ithome.com/1/025/301.htm"],
+        ["ithome-qwencode", "https://www.ithome.com/1/025/393.htm"],
+        ["cnbc-thead", "https://www.cnbc.com/2026/11/11/alibaba-pr.html"]
+      ]
+    },
+    "06_openai-business": {
+      "title": "OpenAI：ChatGPT 商家资料 + 收购 Odessia 做旅行 Agent",
+      "links": [
+        ["openai-business", "https://openai.com/index/introducing-businesses-chatgpt"],
+        ["techcrunch-profiles", "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"],
+        ["investing-profiles", "https://www.investing.com/news/stock-market-news/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-ecommerce-firms-5016475"],
+        ["ithome-odessia", "https://www.ithome.com/1/025/202.htm"]
+      ]
+    },
+    "07_nvidia-huang": {
+      "title": "英伟达黄仁勋“中国间谍案”传闻发酵",
+      "links": [
+        ["cnbc-opinion", "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html"],
+        ["marketwatch-bear", "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories"],
+        ["toms-import", "https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200"]
+      ]
+    },
+    "08_ai-market-rout": {
+      "title": "AI 市场回调：OpenAI/Anthropic 估值回落、基金抛售",
+      "links": [
+        ["bloomberg-rout", "https://www.bloomberg.com/news/newsletters/2026-11-09/openai-and-anthropic-valuations-fall-as-ai-market-rout-hits-fundraising"],
+        ["tmtpost-morning", "https://www.tmtpost.com/8198851.html"],
+        ["eastmoney-semis", "https://finance.eastmoney.com/a/202611093926576423.html"]
+      ]
+    },
+    "09_meta-muse": {
+      "title": "Meta 轻量模型 Muse Ember + Muse 登陆 Apple Watch",
+      "links": [
+        ["ithome-ember", "https://www.ithome.com/1/024/604.htm"],
+        ["ithome-watch", "https://www.ithome.com/1/024/571.htm"]
+      ]
+    },
+    "10_apple-ai-quota": {
+      "title": "苹果限制 Apple Intelligence 云端额度，iCloud+ 可扩容",
+      "links": [
+        ["ithome-quota", "https://www.ithome.com/1/025/502.htm"]
+      ]
+    }
+  }
+}

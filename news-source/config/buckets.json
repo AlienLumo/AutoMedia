@@ -1,0 +1,15 @@
+{
+  "note": "事件分桶关键词：cluster.py 用它对资讯池当日条目归类，输出候选事件清单（供人工挑选）。键=桶名，值=命中关键词（小写匹配）。",
+  "buckets": [
+    ["Anthropic / Claude", ["anthropic", "claude", "fable", "mythos"]],
+    ["Google / Gemini / TPU", ["gemini", "google", "deepmind", "tpu", "谷歌"]],
+    ["OpenAI / ChatGPT", ["openai", "chatgpt", "gpt-", "sora", "odessia"]],
+    ["阿里 / Qwen / 平头哥", ["qwen", "千问", "阿里", "平头哥", "alibaba"]],
+    ["Meta / Muse", ["meta", "muse", "llama", "扎克伯格"]],
+    ["字节 / 豆包 / Seed", ["字节", "豆包", "seedream", "bytedance", "seedance"]],
+    ["芯片 / 算力 / 半导体", ["芯片", "算力", "英伟达", "nvidia", "台积电", "tsmc", "半导体", "gpu", "terafab"]],
+    ["机器人 / 具身智能", ["机器人", "具身", "宇树", "unitree", "智元", "人形"]],
+    ["资本市场 / IPO / 美股", ["ipo", "估值", "美股", "纳指", "标普", "股价", "抛售", "美联储", "财报"]],
+    ["产品发布 / 新模型", ["发布", "上线", "开源", "模型", "推出"]]
+  ]
+}

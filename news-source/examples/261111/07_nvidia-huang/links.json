@@ -1,0 +1,23 @@
+[
+ {
+  "label": "cnbc-opinion",
+  "url": "https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html",
+  "status": 200,
+  "chars": 13465,
+  "file": "原文/cnbc-opinion.md"
+ },
+ {
+  "label": "marketwatch-bear",
+  "url": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
+  "status": 401,
+  "chars": 0,
+  "file": ""
+ },
+ {
+  "label": "toms-import",
+  "url": "https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200",
+  "status": 200,
+  "chars": 20331,
+  "file": "原文/toms-import.md"
+ }
+]

@@ -1,0 +1,18 @@
+{
+  "edition": "2026-11-11",
+  "duration_seconds": 70.07,
+  "video": "H.264, 1080×1920, 30fps, yuv420p",
+  "audio": "AAC, 48kHz, stereo; loudnorm target -16 LUFS / -1.5 dBTP",
+  "cover": "1080×1440 PNG",
+  "full_decode": "passed",
+  "source_files_unchanged": 142,
+  "video_bytes": 5100061,
+  "video_sha256": "d1e84923753f602f3de300152563c03f8d89eecb5c97c472f06c31ee46c83111",
+  "mean_volume": [
+    "-22.1 dB\r"
+  ],
+  "max_volume": [
+    "-3.9 dB\r"
+  ],
+  "source_validation": "Cross-checked user-provided local materials only; no external live verification."
+}

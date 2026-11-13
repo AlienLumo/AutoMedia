@@ -1,0 +1,51 @@
+[
+ {
+  "label": "deadline",
+  "url": "https://deadline.com/2026/11/anthropic-sets-ipo-range-ai-risks-1237219462/",
+  "status": 200,
+  "chars": 11693,
+  "file": "原文/deadline.md"
+ },
+ {
+  "label": "cnbc-retail",
+  "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
+  "status": 200,
+  "chars": 12704,
+  "file": "原文/cnbc-retail.md"
+ },
+ {
+  "label": "bloomberg-ipo",
+  "url": "https://www.bloomberg.com/news/videos/2026-11-10/bloomberg-tech-11-10-2026-video",
+  "status": 403,
+  "chars": 0,
+  "file": ""
+ },
+ {
+  "label": "nyt-nvidia",
+  "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+  "status": 403,
+  "chars": 0,
+  "file": ""
+ },
+ {
+  "label": "nyt-google-amazon",
+  "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-google-amazon.html",
+  "status": 403,
+  "chars": 0,
+  "file": ""
+ },
+ {
+  "label": "ithome-ipo",
+  "url": "https://www.ithome.com/1/024/694.htm",
+  "status": 200,
+  "chars": 1081,
+  "file": "原文/ithome-ipo.md"
+ },
+ {
+  "label": "ithome-morning",
+  "url": "https://www.ithome.com/1/025/224.htm",
+  "status": 200,
+  "chars": 4918,
+  "file": "原文/ithome-morning.md"
+ }
+]

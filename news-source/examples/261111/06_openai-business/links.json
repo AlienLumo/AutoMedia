@@ -1,0 +1,30 @@
+[
+ {
+  "label": "openai-business",
+  "url": "https://openai.com/index/introducing-businesses-chatgpt",
+  "status": 200,
+  "chars": 7088,
+  "file": "原文/openai-business.md"
+ },
+ {
+  "label": "techcrunch-profiles",
+  "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+  "status": 200,
+  "chars": 4718,
+  "file": "原文/techcrunch-profiles.md"
+ },
+ {
+  "label": "investing-profiles",
+  "url": "https://www.investing.com/news/stock-market-news/openai-lets-businesses-claim-chatgpt-profiles-adds-ai-agents-for-us-ecommerce-firms-5016475",
+  "status": 403,
+  "chars": 0,
+  "file": ""
+ },
+ {
+  "label": "ithome-odessia",
+  "url": "https://www.ithome.com/1/025/202.htm",
+  "status": 200,
+  "chars": 1232,
+  "file": "原文/ithome-odessia.md"
+ }
+]

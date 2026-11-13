@@ -1,0 +1,390 @@
+{
+  "format": "daily_ai",
+  "date": "2026-11-11",
+  "title": "每日 AI 风向｜资本、办公与智能体",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "voice": {
+    "engine": "Windows System.Speech",
+    "name": "Microsoft Huihui Desktop",
+    "rate": 1,
+    "generated": true
+  },
+  "source_scope": "仅依据用户提供的 2026-11-11 本地素材；未做外部实时核查。",
+  "editorial_notes": [
+    "IPO README 时间线的 8250 万股与英文原文 825 million 不一致；发行股数不进入口播或自制数据卡；原文摘录保留来源原貌。",
+    "643.5 亿与 693 亿募资额口径不同，成片省略募资额。",
+    "约 1.4 万亿美元为发行区间高端对应估值，不是已上市市值。",
+    "白板和表格为 beta；Data 为正式开放。",
+    "MKA 成本比值来自谷歌公布的该项评测，不能外推所有任务。",
+    "Google 官方动态页与若干截图含非本期新闻，未将它们用作正文证据。"
+  ],
+  "scenes": [
+    {
+      "chapter": "今日导读",
+      "type": "opening",
+      "title": "AI 的下一战",
+      "sub": "资本 / 办公 / 智能体",
+      "lines": [
+        "每日AI风向，十一月十一日。",
+        "今天看三条线：资本、办公、智能体。"
+      ],
+      "source": "",
+      "asset": "",
+      "start": 0,
+      "subtitles": [
+        {
+          "start": 120,
+          "end": 2953,
+          "text": "每日AI风向，十一月十一日。"
+        },
+        {
+          "start": 3003,
+          "end": 7243,
+          "text": "今天看三条线：资本、办公、智能体。"
+        }
+      ],
+      "end": 7733
+    },
+    {
+      "chapter": "01 / 资本",
+      "type": "number",
+      "title": "Anthropic IPO",
+      "sub": "拟发行估值 · 区间高端",
+      "lines": [
+        "Anthropic启动IPO路演。",
+        "发行价区间对应的估值，高端约一点四万亿美元。"
+      ],
+      "source": "Deadline / CNBC · 2026.11.10",
+      "asset": "01_anthropic-ipo/截图/EN_deadline_图片1.jpg",
+      "number": "1.4",
+      "unit": "万亿美元",
+      "note": "约数 · 尚未最终定价",
+      "refs": [
+        "01_anthropic-ipo/原文/deadline.md",
+        "01_anthropic-ipo/原文/cnbc-retail.md"
+      ],
+      "start": 7733,
+      "subtitles": [
+        {
+          "start": 7853,
+          "end": 10027,
+          "text": "Anthropic启动IPO路演。"
+        },
+        {
+          "start": 10077,
+          "end": 14464,
+          "text": "发行价区间对应的估值，高端约一点四万亿美元。"
+        }
+      ],
+      "end": 14967
+    },
+    {
+      "chapter": "01 / 资本",
+      "type": "media",
+      "title": "定价，还待市场检验",
+      "sub": "拟发行估值 ≠ 上市后市值",
+      "lines": [
+        "这是拟发行估值，",
+        "还不是上市后的市场定价。"
+      ],
+      "source": "Deadline · 2026.11.10",
+      "asset": "01_anthropic-ipo/录屏/EN_deadline_滚动.mp4",
+      "media_label": "报道摘录 / Deadline",
+      "video_filter": "crop=490:230:228:25",
+      "video_start": 0.625,
+      "video_duration": 0.125,
+      "video_rate": 0.8,
+      "evidence_title": "01_anthropic-ipo/截图/EN_deadline_标题.png",
+      "refs": [
+        "01_anthropic-ipo/原文/deadline.md",
+        "01_anthropic-ipo/原文/cnbc-retail.md"
+      ],
+      "start": 14967,
+      "subtitles": [
+        {
+          "start": 15087,
+          "end": 16741,
+          "text": "这是拟发行估值，"
+        },
+        {
+          "start": 16791,
+          "end": 19196,
+          "text": "还不是上市后的市场定价。"
+        }
+      ],
+      "end": 19667
+    },
+    {
+      "chapter": "02 / 办公",
+      "type": "media",
+      "title": "Claude 走进办公桌",
+      "sub": "白板 → 表格 → 数据看板",
+      "lines": [
+        "第二条，Claude走进办公桌。",
+        "白板、表格、数据看板，接上团队协作。"
+      ],
+      "source": "IT之家 · 2026.11.11",
+      "asset": "02_anthropic-office/截图/CN_ithome-office_图片2.jpg",
+      "crop": [
+        30,
+        704,
+        1094,
+        1303
+      ],
+      "media_label": "产品图 / Anthropic · 经 IT之家",
+      "refs": [
+        "02_anthropic-office/原文/ithome-office.md"
+      ],
+      "start": 19667,
+      "subtitles": [
+        {
+          "start": 19787,
+          "end": 22410,
+          "text": "第二条，Claude走进办公桌。"
+        },
+        {
+          "start": 22460,
+          "end": 26792,
+          "text": "白板、表格、数据看板，接上团队协作。"
+        }
+      ],
+      "end": 27267
+    },
+    {
+      "chapter": "02 / 办公",
+      "type": "workflow",
+      "title": "上线进度，要分清",
+      "sub": "面向付费计划",
+      "lines": [
+        "白板和表格仍在测试，",
+        "数据工具已向付费计划正式开放。"
+      ],
+      "source": "IT之家 · 2026.11.11 / The Verge · 11.10",
+      "asset": "",
+      "refs": [
+        "02_anthropic-office/原文/ithome-office.md",
+        "02_anthropic-office/原文/verge-office.md"
+      ],
+      "start": 27267,
+      "subtitles": [
+        {
+          "start": 27387,
+          "end": 29420,
+          "text": "白板和表格仍在测试，"
+        },
+        {
+          "start": 29470,
+          "end": 32427,
+          "text": "数据工具已向付费计划正式开放。"
+        }
+      ],
+      "end": 32900
+    },
+    {
+      "chapter": "03 / 智能体",
+      "type": "media",
+      "title": "Gemini 4 Carbon",
+      "sub": "复杂编程 / 多步骤任务",
+      "lines": [
+        "第三条，谷歌开放Gemini四Carbon，",
+        "主攻复杂编程和多步骤任务。"
+      ],
+      "source": "The Verge · 2026.11.10 / IT之家 · 11.11",
+      "asset": "04_gemini4-carbon/截图/EN_verge-gemini_图片1.jpg",
+      "media_label": "产品图 / Google · 经 The Verge",
+      "note": "付费开发者、企业及 Ultra 用户逐步开放",
+      "refs": [
+        "04_gemini4-carbon/原文/ithome-gemini.md",
+        "04_gemini4-carbon/原文/verge-gemini.md"
+      ],
+      "start": 32900,
+      "subtitles": [
+        {
+          "start": 33020,
+          "end": 36218,
+          "text": "第三条，谷歌开放Gemini四Carbon，"
+        },
+        {
+          "start": 36268,
+          "end": 38743,
+          "text": "主攻复杂编程和多步骤任务。"
+        }
+      ],
+      "end": 39233
+    },
+    {
+      "chapter": "03 / 智能体",
+      "type": "swarm",
+      "title": "一句话，多个智能体",
+      "sub": "Antigravity /swarm · 预览中",
+      "lines": [
+        "同时预览智能体群功能，",
+        "一个提示词，协调多个智能体分工。"
+      ],
+      "source": "IT之家 · 2026.11.11",
+      "asset": "",
+      "note": "功能逻辑示意",
+      "refs": [
+        "04_gemini4-carbon/原文/ithome-gemini.md"
+      ],
+      "start": 39233,
+      "subtitles": [
+        {
+          "start": 39353,
+          "end": 41617,
+          "text": "同时预览智能体群功能，"
+        },
+        {
+          "start": 41667,
+          "end": 45131,
+          "text": "一个提示词，协调多个智能体分工。"
+        }
+      ],
+      "end": 45633
+    },
+    {
+      "chapter": "03 / 智能体",
+      "type": "benchmark",
+      "title": "成本，也成了主角",
+      "sub": "MKA 多模态知识工作评测",
+      "lines": [
+        "谷歌公布的MKA评测中，",
+        "Carbon质量第二，",
+        "平均任务成本约为第一名的六分之一。"
+      ],
+      "source": "IT之家转述谷歌评测 · 2026.11.11",
+      "asset": "",
+      "number": "1/6",
+      "unit": "平均任务成本",
+      "note": "相对于该评测质量排名第一的模型",
+      "refs": [
+        "04_gemini4-carbon/原文/ithome-bench.md"
+      ],
+      "start": 45633,
+      "subtitles": [
+        {
+          "start": 45753,
+          "end": 48066,
+          "text": "谷歌公布的MKA评测中，"
+        },
+        {
+          "start": 48116,
+          "end": 49510,
+          "text": "Carbon质量第二，"
+        },
+        {
+          "start": 49560,
+          "end": 52806,
+          "text": "平均任务成本约为第一名的六分之一。"
+        }
+      ],
+      "end": 53300
+    },
+    {
+      "chapter": "03 / 智能体",
+      "type": "caveat",
+      "title": "评测成绩，有边界",
+      "sub": "任务、工具、预算都会影响成本",
+      "lines": [
+        "这个数字只代表该项评测，",
+        "不能直接等同于你的实际成本。"
+      ],
+      "source": "IT之家 · 2026.11.11 / 编辑解读",
+      "asset": "",
+      "note": "不外推为所有任务都便宜六倍",
+      "refs": [
+        "04_gemini4-carbon/原文/ithome-bench.md"
+      ],
+      "start": 53300,
+      "subtitles": [
+        {
+          "start": 53420,
+          "end": 55647,
+          "text": "这个数字只代表该项评测，"
+        },
+        {
+          "start": 55697,
+          "end": 58360,
+          "text": "不能直接等同于你的实际成本。"
+        }
+      ],
+      "end": 58833
+    },
+    {
+      "chapter": "风向判断",
+      "type": "closing",
+      "title": "竞争，延伸到落地",
+      "sub": "模型之外，看商业化的三条线",
+      "lines": [
+        "我的判断：AI竞争正在延伸。",
+        "融资、办公入口和任务成本，三条线一起看。"
+      ],
+      "source": "编辑观点 · 根据本期三组素材整理",
+      "asset": "",
+      "note": "资本 × 入口 × 成本",
+      "start": 58833,
+      "subtitles": [
+        {
+          "start": 58953,
+          "end": 61834,
+          "text": "我的判断：AI竞争正在延伸。"
+        },
+        {
+          "start": 61884,
+          "end": 66376,
+          "text": "融资、办公入口和任务成本，三条线一起看。"
+        }
+      ],
+      "end": 66867
+    },
+    {
+      "chapter": "明日继续",
+      "type": "end",
+      "title": "每日 AI 风向",
+      "sub": "每天，看懂一个变化",
+      "lines": [
+        "每日AI风向，明天继续。"
+      ],
+      "source": "",
+      "asset": "",
+      "note": "2026.11.11 / 本地素材编排",
+      "start": 66867,
+      "subtitles": [
+        {
+          "start": 66987,
+          "end": 69499,
+          "text": "每日AI风向，明天继续。"
+        }
+      ],
+      "end": 70067
+    }
+  ],
+  "duration_ms": 70067,
+  "audio": "../_render/audio/mixed.wav",
+  "voiceover": [
+    "每日AI风向，十一月十一日。",
+    "今天看三条线：资本、办公、智能体。",
+    "Anthropic启动IPO路演。",
+    "发行价区间对应的估值，高端约一点四万亿美元。",
+    "这是拟发行估值，",
+    "还不是上市后的市场定价。",
+    "第二条，Claude走进办公桌。",
+    "白板、表格、数据看板，接上团队协作。",
+    "白板和表格仍在测试，",
+    "数据工具已向付费计划正式开放。",
+    "第三条，谷歌开放Gemini四Carbon，",
+    "主攻复杂编程和多步骤任务。",
+    "同时预览智能体群功能，",
+    "一个提示词，协调多个智能体分工。",
+    "谷歌公布的MKA评测中，",
+    "Carbon质量第二，",
+    "平均任务成本约为第一名的六分之一。",
+    "这个数字只代表该项评测，",
+    "不能直接等同于你的实际成本。",
+    "我的判断：AI竞争正在延伸。",
+    "融资、办公入口和任务成本，三条线一起看。",
+    "每日AI风向，明天继续。"
+  ]
+}

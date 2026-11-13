@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "creator-distill unified contract",
+  "type": "object",
+  "required": ["schema_version", "platform", "creator", "works"],
+  "properties": {
+    "schema_version": {"type": "integer", "const": 1},
+    "platform": {"enum": ["bilibili", "douyin", "xiaohongshu"]},
+    "collected_at": {"type": "string"},
+    "creator": {
+      "type": "object",
+      "required": ["id", "name"],
+      "properties": {
+        "id": {"type": "string"},
+        "name": {"type": "string"},
+        "bio": {"type": "string"},
+        "followers": {"type": "integer"},
+        "url": {"type": "string"}
+      }
+    },
+    "works": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["work_id", "title"],
+        "properties": {
+          "work_id": {"type": "string"},
+          "url": {"type": "string"},
+          "title": {"type": "string"},
+          "desc": {"type": "string"},
+          "published_at": {"type": "string"},
+          "duration_sec": {"type": "number"},
+          "format": {"enum": ["video", "image_text", "unknown"]},
+          "metrics": {
+            "type": "object",
+            "properties": {
+              "view": {"type": ["number", "null"]},
+              "like": {"type": ["number", "null"]},
+              "comment": {"type": ["number", "null"]},
+              "collect": {"type": ["number", "null"]},
+              "share": {"type": ["number", "null"]}
+            }
+          },
+          "tags": {"type": "array", "items": {"type": "string"}},
+          "cover_url": {"type": "string"},
+          "media_url": {"type": "string"},
+          "transcript": {
+            "type": "object",
+            "properties": {
+              "source": {"enum": ["platform_subtitle", "asr", "desc", "none"]},
+              "lang": {"type": "string"},
+              "text": {"type": "string"},
+              "segments": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "start": {"type": "number"},
+                    "end": {"type": "number"},
+                    "text": {"type": "string"}
+                  }
+                }
+              }
+            }
+          },
+          "frames": {"type": "array", "items": {"type": "string"}},
+          "contact_sheet": {"type": "string"},
+          "local_media": {"type": "string"}
+        }
+      }
+    }
+  }
+}

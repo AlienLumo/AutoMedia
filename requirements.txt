@@ -1,0 +1,20 @@
+# AutoMedia 运行依赖（Python 3.11+）
+#
+# 采集侧的浏览器自动化 + 图片/数据处理只需要下面这 4 个包：
+#   - requests        HTTP 抓取（news-source / B站 API）
+#   - patchright      反检测 Playwright（Chromium 浏览器自动化）
+#   - Pillow          截图 / 封面处理
+#   - numpy           数据处理 / ASR 音频
+#
+# 使用项目内 runtime/python 时无需安装（runtime 已自带）。
+# 系统环境安装：pip install -r requirements.txt
+
+requests>=2.31
+patchright>=1.40
+Pillow>=10.0
+numpy>=1.26
+
+# 可选：本地 ASR（抖音 / 无字幕 B站视频的逐字稿）。不跑 ASR 不用装，
+# 体积较大（含 CTranslate2 与模型下载）。
+# 安装：pip install "faster-whisper>=1.0"
+# faster-whisper>=1.0

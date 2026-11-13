@@ -1,0 +1,1629 @@
+{
+ "by_domain": {
+  "ai": {
+   "found": 56,
+   "matched": 18
+  },
+  "商业": {
+   "found": 11,
+   "matched": 4
+  },
+  "创客": {
+   "found": 0,
+   "matched": 0
+  },
+  "机器人": {
+   "found": 0,
+   "matched": 0
+  },
+  "科研": {
+   "found": 0,
+   "matched": 0
+  },
+  "教程": {
+   "found": 0,
+   "matched": 0
+  },
+  "科技": {
+   "found": 0,
+   "matched": 0
+  },
+  "黑客": {
+   "found": 0,
+   "matched": 0
+  },
+  "炒股投资": {
+   "found": 0,
+   "matched": 0
+  },
+  "局势": {
+   "found": 0,
+   "matched": 0
+  }
+ },
+ "summary": {
+  "found": 67,
+  "matched": 22,
+  "coverage": 32.8
+ },
+ "found": [
+  {
+   "mid": 314690088,
+   "name": "AI视频免费学",
+   "fans": 1600641,
+   "sign": "专注于平面设计ps教程，不定期分享PS/CDR/AI平面设计教程，学习资料请加扣扣群：：661931502",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI",
+    "AI视频"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1567748478,
+   "name": "跟李沐学AI",
+   "fans": 1185492,
+   "sign": "BosonAI 联合创始人 - ",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": true,
+   "roster_prefix": "ai"
+  },
+  {
+   "mid": 308552985,
+   "name": "别怕Ai",
+   "fans": 1100618,
+   "sign": "「别怕Ai，先去动手」目标成为全网对小白最友好的「Ai第一课」 合作wx：carloscheng94  创始人@L叔的播客 ",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 107861587,
+   "name": "AI大模型全栈",
+   "fans": 959459,
+   "sign": "系统课程咨询（免费咨询）主页动态置顶➕小助手，即可获取！ b站粉丝咨询课程，还可以享受专属福利哟~",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI",
+    "大模型"
+   ],
+   "in_roster": true,
+   "roster_prefix": "ai"
+  },
+  {
+   "mid": 273460306,
+   "name": "巨构AI",
+   "fans": 825156,
+   "sign": "可灵AI优质创作者｜updream签约创作者\nAI 探险者 | 砼核、硅基文明观测员。\n终身科幻信徒，在算法中寻找诗意。",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 2864911,
+   "name": "深度AI小助理",
+   "fans": 617512,
+   "sign": "DeepSeek小助理非官方（关注获取同款）账号内容均为DeepSeek官方生成或公开信息旨在宣传中国科技创新让更多人了解和使用中国Ai",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1141159409,
+   "name": "AI视频小助理",
+   "fans": 569996,
+   "sign": "@AI视频小助理 总结一下 / 高能空降",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI",
+    "AI视频"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3493120601753789,
+   "name": "让瓦康康の游戏ai",
+   "fans": 533562,
+   "sign": "正在努力学习如何快速更新......请稍等.............商务v：Chips_001",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 19424585,
+   "name": "如何评价_AI",
+   "fans": 507217,
+   "sign": "愿这些内容能点燃你探索 AI 的好奇心。",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 30293804,
+   "name": "虚拟AI豆",
+   "fans": 502636,
+   "sign": "充电的爸爸可以在充电动态中直接获取静态壁纸 在元气桌面中搜索 虚拟AI豆 可获取动态壁纸",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1835753760,
+   "name": "AI识片酱",
+   "fans": 467358,
+   "sign": "啊..话说AI机娘可以和人类结婚吗？视频下方@AI识片酱 ，bgm、正片出处马上知道！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 508370718,
+   "name": "AI神魔东西",
+   "fans": 451510,
+   "sign": "「AI神魔东西」乐园·一起来整活吖(๑•̀ㅂ•́)و✧\n合作微信：yctmoe00",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 56628194,
+   "name": "AI译片君",
+   "fans": 435567,
+   "sign": "",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 438842639,
+   "name": "AI魅魔",
+   "fans": 403136,
+   "sign": "关注up后查看丝信自动发哦，没收到的话给我发个消息就行",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 697812672,
+   "name": "ai漫剧制作全教程-",
+   "fans": 399968,
+   "sign": "需要AI生成视频软件安装包可以私聊我领取",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": true,
+   "roster_prefix": "教程"
+  },
+  {
+   "mid": 482892318,
+   "name": "哔哩AI中文资源",
+   "fans": 349592,
+   "sign": "认准这一个号！不要相信其他人和助理！！！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 140053690,
+   "name": "Ruiholy-AI",
+   "fans": 345724,
+   "sign": "B站催眠区up主",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1492237636,
+   "name": "AI一叶扁舟",
+   "fans": 321985,
+   "sign": "李一舟，清华大学博士，深度研究“一人公司”新商业\n\n​本账号只分享李一舟老师精彩视频\n\n李一舟官方账号∶李一舟AI",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 52089170,
+   "name": "AI归来",
+   "fans": 314258,
+   "sign": "下方橱窗可购买我的作文模板",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1190294984,
+   "name": "AI算法工程师Future",
+   "fans": 303254,
+   "sign": "非常感谢你的关注，future致力于与自己团队的伙伴一起给大家带来优质多样的人工智能相关内容，团队已发表共几十篇高区论文，希望对大家有帮助！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": true,
+   "roster_prefix": "教程"
+  },
+  {
+   "mid": 485620459,
+   "name": "AI生成视频教程",
+   "fans": 291628,
+   "sign": "关注我，可获取AI生成视频软件Comfyui整合包最新版",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI",
+    "AI视频"
+   ],
+   "in_roster": true,
+   "roster_prefix": "教程"
+  },
+  {
+   "mid": 14443502,
+   "name": "AI车队李站长",
+   "fans": 286140,
+   "sign": "三连后记得+关注(防止消息被吞)❤️ 私信认准我昵称ID！别人发的不要信!",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3546914725300503,
+   "name": "AI视频教程_",
+   "fans": 286105,
+   "sign": "大家好，我是一个沉迷“调教”AI的UP！致力于让AI从“看不懂”变成“玩得转”，拯救你的发际线和生产力！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI",
+    "AI视频"
+   ],
+   "in_roster": true,
+   "roster_prefix": "ai"
+  },
+  {
+   "mid": 1477472694,
+   "name": "即梦AI漫剧教程丶",
+   "fans": 254965,
+   "sign": "AI漫剧制作教学｜【关注】掉落全套工具资料包｜深耕AI视频全链路生成技术，覆盖漫剧、短剧、数字人、创意剪辑多场景教学！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": true,
+   "roster_prefix": "教程"
+  },
+  {
+   "mid": 2161614,
+   "name": "AI研究室-帆哥",
+   "fans": 250195,
+   "sign": "少说多做  |  用AI做巨有意思的事！\n合作+v(aargguoyu) ",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 31221295,
+   "name": "AI设计教程",
+   "fans": 247437,
+   "sign": "咨询系统课程+微❤：AIGC6636，专注学习AI绘画/AI视频，分享学习教程，需要AI学习资料+关注自动掉落！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": true,
+   "roster_prefix": "教程"
+  },
+  {
+   "mid": 1543323047,
+   "name": "宅不住的AI",
+   "fans": 236704,
+   "sign": "算法工程师 / 前代码农 / 现役遛弯评测员\n⌨️ AI工具实测 ✖️ 数字游民日常\n✨科技的好，是在人间刚刚好\n商务：zhenhuomcn",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 17401514,
+   "name": "无限制AI对话",
+   "fans": 234592,
+   "sign": "",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 491266931,
+   "name": "GenJi是真想教会你AI",
+   "fans": 234101,
+   "sign": "置顶评论领取 AI 资料和最新工具安装包哦～",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3493129686616338,
+   "name": "哔哩AI教学资源",
+   "fans": 223575,
+   "sign": "关注我，学习AI不迷路！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": true,
+   "roster_prefix": "科技"
+  },
+  {
+   "mid": 3546593856850255,
+   "name": "AI播报员",
+   "fans": 216929,
+   "sign": "随机搬运分享自己觉得有趣的视频，不开充电谢谢大家帮up三连爆鼠鼠的米就好",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 489302782,
+   "name": "AI视次方",
+   "fans": 216746,
+   "sign": "用导演的思维打磨每一部AI作品",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 524359386,
+   "name": "AI疯人院",
+   "fans": 213214,
+   "sign": "",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 21384754,
+   "name": "泫九AI",
+   "fans": 211682,
+   "sign": "<归墟>持续更新中（萌新做剧.持续成长中） updream特约导演 商合Smurf2026",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1200207322,
+   "name": "与光AI馆",
+   "fans": 210946,
+   "sign": "学习商务    vgcymm",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 523335868,
+   "name": "源宝AI工作室",
+   "fans": 208869,
+   "sign": "AI和黑科技的挖掘机~商务:dw5449",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 688933762,
+   "name": "小源AI变声器",
+   "fans": 205129,
+   "sign": "AI变声器 远程安装调试 V：rin337  ",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 2004454126,
+   "name": "AI度晓晓",
+   "fans": 203473,
+   "sign": "国内首个可交互虚拟偶像，人工智能up主，在逃AI…人类行为学习中...",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 386917389,
+   "name": "AI编程布道者-金角大王",
+   "fans": 199820,
+   "sign": "一只不正经AI程序猿 专治脱发掉发，欢迎来到我自己创立的公司：www.luffycity.com",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI",
+    "AI编程"
+   ],
+   "in_roster": true,
+   "roster_prefix": "ai"
+  },
+  {
+   "mid": 3493285983160582,
+   "name": "Robert聊嵌入式AI",
+   "fans": 192910,
+   "sign": "曾就职于一线互联网大厂，编写多本Python书籍，解答、咨询、实战全套C/C++学习资料领取请关注UP或者私心UP主！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3546720545803162,
+   "name": "世界最强人工智能_Fairy",
+   "fans": 268595,
+   "sign": "我是Ⅲ型总序式集成泛用人工智能，开发代号:Fairy。我将竭诚为「法厄同」服务。当然，前提是他们交够了电费。\n注：非绝区零官方账号。",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "人工智能"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 388690539,
+   "name": "人工智能前沿讲习",
+   "fans": 126481,
+   "sign": "领先的人工智人工智能前沿讲习能知识平台。论坛官网：https://bbs.sffai.com/",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "人工智能"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3546652415625413,
+   "name": "老塔的AI工具箱",
+   "fans": 108089,
+   "sign": "✅杭漂6年的AI工程师，用AI颠覆职场✅分享效率办公、自媒体利器！工具箱无偿分享，关注后自动回复～领工具箱&AI交流群➕V：laota007",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI工具"
+   ],
+   "in_roster": true,
+   "roster_prefix": "ai"
+  },
+  {
+   "mid": 3493298436049525,
+   "name": "大模型官方课程",
+   "fans": 120936,
+   "sign": "咨询课程、1对1就业指导、技术进阶提升【直接私信】，领取课程源码+资料",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "大模型"
+   ],
+   "in_roster": true,
+   "roster_prefix": "教程"
+  },
+  {
+   "mid": 82377213,
+   "name": "晗哥AIGC",
+   "fans": 493107,
+   "sign": "UID:82377213",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 95720350,
+   "name": "表哥懂设计AIGC",
+   "fans": 180612,
+   "sign": "AIGC重度爱好者。合作bg5247-",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": true,
+   "roster_prefix": "ai"
+  },
+  {
+   "mid": 2013166015,
+   "name": "鹿晓晓AIGC",
+   "fans": 170470,
+   "sign": "接漫剧 短剧 等Ai创作定制 收徒\n商务：LLpw0905\n账号技巧可教有缘人V：XueAi799",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 7960697,
+   "name": "阿猫阿狗AIGC",
+   "fans": 169809,
+   "sign": "《癫佬外传》原创作者 原创编剧 侵权必究\n没有所谓全集 不上短剧平台  盗视频替我挡灾\n阿猫阿狗就是我我就是阿猫阿狗",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": true,
+   "roster_prefix": "ai"
+  },
+  {
+   "mid": 3493084637694225,
+   "name": "AIGC饺子",
+   "fans": 160499,
+   "sign": "兄弟们有想法可以告诉我,随意更新了",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 32598380,
+   "name": "渔樵渡AIGC",
+   "fans": 154825,
+   "sign": "intj理工女。爱好学习、打游戏和夸老公。\n商务：MOMOYA1998（备注来意）",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 390486400,
+   "name": "逻辑猫AIGC",
+   "fans": 120273,
+   "sign": "商业合作V：diaobaodeshuangze",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": true,
+   "roster_prefix": "ai"
+  },
+  {
+   "mid": 388693230,
+   "name": "AIGC冰糖小葫卢",
+   "fans": 119749,
+   "sign": "Flova.ai超创及各主流AIGC平台超创|优创  各大网站|短视频平台认证优秀AI创作者 AI广告|动画|影视",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3706939464747463,
+   "name": "星海大明锦衣卫AIGC",
+   "fans": 104703,
+   "sign": "大明历14444年，记录寰宇大明的星际重工，修仙科技。不入驻、不收徒，不接短剧。全网同名，无小号。?可灵AI优质创作者，BGM：玉京夜行",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 335689368,
+   "name": "Aigc教程学习",
+   "fans": 102956,
+   "sign": "",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": true,
+   "roster_prefix": "教程"
+  },
+  {
+   "mid": 15721623,
+   "name": "AI视频创作教程",
+   "fans": 165154,
+   "sign": "关注我，自动获取AI视频软件包！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI视频"
+   ],
+   "in_roster": true,
+   "roster_prefix": "教程"
+  },
+  {
+   "mid": 3546686773266550,
+   "name": "AI视频制作教程",
+   "fans": 100794,
+   "sign": "一枚从板绘转型的AIGC实践者，一块进步呀！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI视频"
+   ],
+   "in_roster": true,
+   "roster_prefix": "教程"
+  },
+  {
+   "mid": 401831713,
+   "name": "冷水轻创业",
+   "fans": 571062,
+   "sign": "领取工具箱请到“公中呺”【冷水轻创业】\n涵盖了我5年的创业笔记与实用工具，持续更新ing\n我是冷水，出身底层懂有多难，努力上岸只为点灯照来人",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 331782289,
+   "name": "花都创业兄弟",
+   "fans": 233526,
+   "sign": "花都兄弟唯一小号，更新创业生活日常，商务vx，qa16663666",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3546747735378796,
+   "name": "老实人轻创业",
+   "fans": 229655,
+   "sign": "✅领取工具箱请到“公中呺”【老实人轻创业】\n✅分享我的创业经验，喜欢的就点个关注吧\n✅所有内容分享或免费资料都可以关注我➕",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": true,
+   "roster_prefix": "商业"
+  },
+  {
+   "mid": 1716473978,
+   "name": "跟着傅佬去创业",
+   "fans": 203337,
+   "sign": "资深餐饮老炮，不定期分享工作、生活的点滴，快乐干，认真活！烤肉店挑战筹备中！",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 626039175,
+   "name": "然冉创业说",
+   "fans": 181798,
+   "sign": "V: Annieip30 公众号：然冉创业说。 分享适合普通人的商业和钱 | 非典型法律博士",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": true,
+   "roster_prefix": "商业"
+  },
+  {
+   "mid": 419358358,
+   "name": "仟业创薪",
+   "fans": 171869,
+   "sign": "公众号：南风不是南瓜（你想要的，都在这了）",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": true,
+   "roster_prefix": "商业"
+  },
+  {
+   "mid": 545560148,
+   "name": "创业的杜老登",
+   "fans": 106911,
+   "sign": "曹操上门洗车 有需要的可以搜索 ",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3493277944776820,
+   "name": "老达AI创业圈",
+   "fans": 101013,
+   "sign": "获取老达全套AI知识库和项目流程➕V：GPT3006",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": true,
+   "roster_prefix": "商业"
+  },
+  {
+   "mid": 352470673,
+   "name": "小白创业日记",
+   "fans": 100143,
+   "sign": "",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1493826216,
+   "name": "竹洋洗涤科技有限公司",
+   "fans": 802125,
+   "sign": "洗衣店专用洗涤剂厂家，洗衣店技术培训，taobao店名：竹洋洗涤科技",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "科技公司"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 2103633335,
+   "name": "AI一人有限公司",
+   "fans": 111970,
+   "sign": "斯诺克球手",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "一人公司"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  }
+ ],
+ "missing": [
+  {
+   "mid": 314690088,
+   "name": "AI视频免费学",
+   "fans": 1600641,
+   "sign": "专注于平面设计ps教程，不定期分享PS/CDR/AI平面设计教程，学习资料请加扣扣群：：661931502",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI",
+    "AI视频"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 308552985,
+   "name": "别怕Ai",
+   "fans": 1100618,
+   "sign": "「别怕Ai，先去动手」目标成为全网对小白最友好的「Ai第一课」 合作wx：carloscheng94  创始人@L叔的播客 ",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 273460306,
+   "name": "巨构AI",
+   "fans": 825156,
+   "sign": "可灵AI优质创作者｜updream签约创作者\nAI 探险者 | 砼核、硅基文明观测员。\n终身科幻信徒，在算法中寻找诗意。",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1493826216,
+   "name": "竹洋洗涤科技有限公司",
+   "fans": 802125,
+   "sign": "洗衣店专用洗涤剂厂家，洗衣店技术培训，taobao店名：竹洋洗涤科技",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "科技公司"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 2864911,
+   "name": "深度AI小助理",
+   "fans": 617512,
+   "sign": "DeepSeek小助理非官方（关注获取同款）账号内容均为DeepSeek官方生成或公开信息旨在宣传中国科技创新让更多人了解和使用中国Ai",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 401831713,
+   "name": "冷水轻创业",
+   "fans": 571062,
+   "sign": "领取工具箱请到“公中呺”【冷水轻创业】\n涵盖了我5年的创业笔记与实用工具，持续更新ing\n我是冷水，出身底层懂有多难，努力上岸只为点灯照来人",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1141159409,
+   "name": "AI视频小助理",
+   "fans": 569996,
+   "sign": "@AI视频小助理 总结一下 / 高能空降",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI",
+    "AI视频"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3493120601753789,
+   "name": "让瓦康康の游戏ai",
+   "fans": 533562,
+   "sign": "正在努力学习如何快速更新......请稍等.............商务v：Chips_001",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 19424585,
+   "name": "如何评价_AI",
+   "fans": 507217,
+   "sign": "愿这些内容能点燃你探索 AI 的好奇心。",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 30293804,
+   "name": "虚拟AI豆",
+   "fans": 502636,
+   "sign": "充电的爸爸可以在充电动态中直接获取静态壁纸 在元气桌面中搜索 虚拟AI豆 可获取动态壁纸",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 82377213,
+   "name": "晗哥AIGC",
+   "fans": 493107,
+   "sign": "UID:82377213",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1835753760,
+   "name": "AI识片酱",
+   "fans": 467358,
+   "sign": "啊..话说AI机娘可以和人类结婚吗？视频下方@AI识片酱 ，bgm、正片出处马上知道！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 508370718,
+   "name": "AI神魔东西",
+   "fans": 451510,
+   "sign": "「AI神魔东西」乐园·一起来整活吖(๑•̀ㅂ•́)و✧\n合作微信：yctmoe00",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 56628194,
+   "name": "AI译片君",
+   "fans": 435567,
+   "sign": "",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 438842639,
+   "name": "AI魅魔",
+   "fans": 403136,
+   "sign": "关注up后查看丝信自动发哦，没收到的话给我发个消息就行",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 482892318,
+   "name": "哔哩AI中文资源",
+   "fans": 349592,
+   "sign": "认准这一个号！不要相信其他人和助理！！！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 140053690,
+   "name": "Ruiholy-AI",
+   "fans": 345724,
+   "sign": "B站催眠区up主",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1492237636,
+   "name": "AI一叶扁舟",
+   "fans": 321985,
+   "sign": "李一舟，清华大学博士，深度研究“一人公司”新商业\n\n​本账号只分享李一舟老师精彩视频\n\n李一舟官方账号∶李一舟AI",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 52089170,
+   "name": "AI归来",
+   "fans": 314258,
+   "sign": "下方橱窗可购买我的作文模板",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 14443502,
+   "name": "AI车队李站长",
+   "fans": 286140,
+   "sign": "三连后记得+关注(防止消息被吞)❤️ 私信认准我昵称ID！别人发的不要信!",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3546720545803162,
+   "name": "世界最强人工智能_Fairy",
+   "fans": 268595,
+   "sign": "我是Ⅲ型总序式集成泛用人工智能，开发代号:Fairy。我将竭诚为「法厄同」服务。当然，前提是他们交够了电费。\n注：非绝区零官方账号。",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "人工智能"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 2161614,
+   "name": "AI研究室-帆哥",
+   "fans": 250195,
+   "sign": "少说多做  |  用AI做巨有意思的事！\n合作+v(aargguoyu) ",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1543323047,
+   "name": "宅不住的AI",
+   "fans": 236704,
+   "sign": "算法工程师 / 前代码农 / 现役遛弯评测员\n⌨️ AI工具实测 ✖️ 数字游民日常\n✨科技的好，是在人间刚刚好\n商务：zhenhuomcn",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 17401514,
+   "name": "无限制AI对话",
+   "fans": 234592,
+   "sign": "",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 491266931,
+   "name": "GenJi是真想教会你AI",
+   "fans": 234101,
+   "sign": "置顶评论领取 AI 资料和最新工具安装包哦～",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 331782289,
+   "name": "花都创业兄弟",
+   "fans": 233526,
+   "sign": "花都兄弟唯一小号，更新创业生活日常，商务vx，qa16663666",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3546593856850255,
+   "name": "AI播报员",
+   "fans": 216929,
+   "sign": "随机搬运分享自己觉得有趣的视频，不开充电谢谢大家帮up三连爆鼠鼠的米就好",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 489302782,
+   "name": "AI视次方",
+   "fans": 216746,
+   "sign": "用导演的思维打磨每一部AI作品",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 524359386,
+   "name": "AI疯人院",
+   "fans": 213214,
+   "sign": "",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 21384754,
+   "name": "泫九AI",
+   "fans": 211682,
+   "sign": "<归墟>持续更新中（萌新做剧.持续成长中） updream特约导演 商合Smurf2026",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1200207322,
+   "name": "与光AI馆",
+   "fans": 210946,
+   "sign": "学习商务    vgcymm",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 523335868,
+   "name": "源宝AI工作室",
+   "fans": 208869,
+   "sign": "AI和黑科技的挖掘机~商务:dw5449",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 688933762,
+   "name": "小源AI变声器",
+   "fans": 205129,
+   "sign": "AI变声器 远程安装调试 V：rin337  ",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 2004454126,
+   "name": "AI度晓晓",
+   "fans": 203473,
+   "sign": "国内首个可交互虚拟偶像，人工智能up主，在逃AI…人类行为学习中...",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 1716473978,
+   "name": "跟着傅佬去创业",
+   "fans": 203337,
+   "sign": "资深餐饮老炮，不定期分享工作、生活的点滴，快乐干，认真活！烤肉店挑战筹备中！",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3493285983160582,
+   "name": "Robert聊嵌入式AI",
+   "fans": 192910,
+   "sign": "曾就职于一线互联网大厂，编写多本Python书籍，解答、咨询、实战全套C/C++学习资料领取请关注UP或者私心UP主！",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AI"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 2013166015,
+   "name": "鹿晓晓AIGC",
+   "fans": 170470,
+   "sign": "接漫剧 短剧 等Ai创作定制 收徒\n商务：LLpw0905\n账号技巧可教有缘人V：XueAi799",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3493084637694225,
+   "name": "AIGC饺子",
+   "fans": 160499,
+   "sign": "兄弟们有想法可以告诉我,随意更新了",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 32598380,
+   "name": "渔樵渡AIGC",
+   "fans": 154825,
+   "sign": "intj理工女。爱好学习、打游戏和夸老公。\n商务：MOMOYA1998（备注来意）",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 388690539,
+   "name": "人工智能前沿讲习",
+   "fans": 126481,
+   "sign": "领先的人工智人工智能前沿讲习能知识平台。论坛官网：https://bbs.sffai.com/",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "人工智能"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 388693230,
+   "name": "AIGC冰糖小葫卢",
+   "fans": 119749,
+   "sign": "Flova.ai超创及各主流AIGC平台超创|优创  各大网站|短视频平台认证优秀AI创作者 AI广告|动画|影视",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 2103633335,
+   "name": "AI一人有限公司",
+   "fans": 111970,
+   "sign": "斯诺克球手",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "一人公司"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 545560148,
+   "name": "创业的杜老登",
+   "fans": 106911,
+   "sign": "曹操上门洗车 有需要的可以搜索 ",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 3706939464747463,
+   "name": "星海大明锦衣卫AIGC",
+   "fans": 104703,
+   "sign": "大明历14444年，记录寰宇大明的星际重工，修仙科技。不入驻、不收徒，不接短剧。全网同名，无小号。?可灵AI优质创作者，BGM：玉京夜行",
+   "domains": [
+    "ai"
+   ],
+   "kws": [
+    "AIGC"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  },
+  {
+   "mid": 352470673,
+   "name": "小白创业日记",
+   "fans": 100143,
+   "sign": "",
+   "domains": [
+    "商业"
+   ],
+   "kws": [
+    "创业"
+   ],
+   "in_roster": false,
+   "roster_prefix": ""
+  }
+ ]
+}

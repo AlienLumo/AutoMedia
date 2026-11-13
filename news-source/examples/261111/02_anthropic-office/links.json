@@ -1,0 +1,37 @@
+[
+ {
+  "label": "verge-office",
+  "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+  "status": 200,
+  "chars": 9778,
+  "file": "原文/verge-office.md"
+ },
+ {
+  "label": "bloomberg-office",
+  "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-unveils-office-tools-ahead-of-ipo-taking-on-microsoft",
+  "status": 403,
+  "chars": 0,
+  "file": ""
+ },
+ {
+  "label": "techcrunch-meetings",
+  "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+  "status": 200,
+  "chars": 6350,
+  "file": "原文/techcrunch-meetings.md"
+ },
+ {
+  "label": "ithome-office",
+  "url": "https://www.ithome.com/1/025/204.htm",
+  "status": 200,
+  "chars": 1401,
+  "file": "原文/ithome-office.md"
+ },
+ {
+  "label": "investing-meet",
+  "url": "https://www.investing.com/news/stock-market-news/anthropic-brings-claude-to-google-meet-to-tackle-tasks-live-5016423",
+  "status": 403,
+  "chars": 0,
+  "file": ""
+ }
+]
