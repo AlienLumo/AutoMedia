@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """从 detail 接口的 author 对象取真实粉丝数，并修正账号目录名。"""
 import json
 import re
@@ -53,7 +53,8 @@ print("author 全部字段:", {k: au.get(k) for k in
 
 if fans and nick:
     tag = f"{fans/10000:.1f}万" if fans >= 10000 else str(fans)
-    newname = f"{re.sub(r'[\\\\/:*?\"<>|]', '_', nick)[:30]}_{tag}"
+    safe_nick = re.sub(r'[\\\\/:*?\"<>|]', '_', nick)[:30]
+    newname = f"{safe_nick}_{tag}"
     target = acct.parent / newname
     if target != acct and not target.exists():
         acct.rename(target)
